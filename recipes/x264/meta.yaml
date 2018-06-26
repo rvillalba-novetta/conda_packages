@@ -1,0 +1,36 @@
+{% set name = "x264" %}
+{% set version = "20180621" %}
+{% set file_ext = "tar.gz" %}
+{% set hash_type = "sha256" %}
+{% set hash_value = "0b2cc643dc830885bf5db92cc3dfe075df277974607de2de1284f884feb1fc7c" %}
+
+package:
+  name: '{{ name  }}'
+  version: '{{ version  }}'
+
+source:
+  fn: x264-snapshot-{{ version }}-2245-stable.tar.bz2
+  url: http://download.videolan.org/pub/videolan/x264/snapshots/x264-snapshot-{{ version }}-2245-stable.tar.bz2
+  '{{ hash_type }}': '{{ hash_value }}'
+
+build:
+  number: 0
+  skip: true         # [win]
+
+requirements:
+  build:
+    - yasm
+
+test:
+  commands:
+    - test -f ${PREFIX}/include/x264.h
+    - test -f ${PREFIX}/lib/libx264.a
+    - test -f ${PREFIX}/lib/libx264.so
+    - x264 --help
+
+about:
+  home: http://www.videolan.org/developers/x264.html
+  license: GPL 2
+  license_file: COPYING
+  summary: A free software library for encoding video streams into the H.264/MPEG-4 AVC format.
+

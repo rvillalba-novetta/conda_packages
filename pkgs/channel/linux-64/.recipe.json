@@ -1,0 +1,547 @@
+{
+  "265-2.8-0.tar.bz2": {
+    "about": {
+      "home": "https://bitbucket.org/multicoreware/x265/wiki/Home",
+      "license": "GPL 2",
+      "license_file": "COPYING",
+      "summary": "An open source HEVC encoder."
+    },
+    "build": {
+      "number": "0",
+      "string": "0"
+    },
+    "extra": {
+      "copy_test_source_files": true,
+      "final": true
+    },
+    "package": {
+      "name": "265",
+      "version": "2.8"
+    },
+    "requirements": {
+      "build": [
+        "bzip2 1.0.6 1",
+        "ca-certificates 2018.4.16 0",
+        "cmake 3.11.4 0",
+        "curl 7.60.0 0",
+        "expat 2.2.5 0",
+        "krb5 1.14.6 0",
+        "libgcc-ng 7.2.0 hdf63c60_3",
+        "libssh2 1.8.0 h5b517e9_2",
+        "libuv 1.20.3 0",
+        "ncurses 5.9 10",
+        "openssl 1.0.2o 0",
+        "rhash 1.3.4 0",
+        "xz 5.2.3 0",
+        "yasm 1.3.0 0",
+        "zlib 1.2.11 h470a237_3"
+      ]
+    },
+    "source": {
+      "fn": "x265_2.8.tar.gz",
+      "sha256": "6e59f9afc0c2b87a46f98e33b5159d56ffb3558a49d8e3d79cb7fdc6b7aaa863",
+      "url": "http://ftp.videolan.org/pub/videolan/x265/x265_2.8.tar.gz"
+    },
+    "test": {
+      "commands": [
+        "x265 --version"
+      ]
+    }
+  },
+  "av-0.4.0_1.0-py36_0.tar.bz2": {
+    "about": {
+      "description": "PyAV is a Pythonic binding for FFmpeg or Libav. We aim to provide all of\nthe power and control of the underlying library, but manage the gritty\ndetails as much as possible.\n",
+      "dev_url": "https://github.com/rvillalba-novetta/PyAV/releases",
+      "doc_url": "http://mikeboers.github.io/PyAV/",
+      "home": "https://github.com/mikeboers/PyAV/",
+      "license": "BSD 3-Clause",
+      "license_file": "LICENSE.txt",
+      "summary": "Pythonic bindings for FFmpeg."
+    },
+    "build": {
+      "number": "0",
+      "script": "python setup.py install --single-version-externally-managed --record record.txt",
+      "string": "py36_0"
+    },
+    "extra": {
+      "copy_test_source_files": true,
+      "final": true
+    },
+    "package": {
+      "name": "av",
+      "version": "0.4.0_1.0"
+    },
+    "requirements": {
+      "build": [
+        "bzip2 1.0.6 1",
+        "ca-certificates 2018.4.16 0",
+        "certifi 2018.4.16 py36_0",
+        "cython 0.28.3 py36hfc679d8_0",
+        "ffmpeg 4.0 0",
+        "freetype 2.8.1 0",
+        "gmp 6.1.2 hfc679d8_0",
+        "gnutls 3.5.17 0",
+        "libgcc-ng 7.2.0 hdf63c60_3",
+        "libiconv 1.15 h470a237_1",
+        "libidn11 1.33 0",
+        "libogg 1.3.2 0",
+        "libpng 1.6.34 0",
+        "libstdcxx-ng 7.2.0 hdf63c60_3",
+        "libtheora 1.1.1 h470a237_1",
+        "libvorbis 1.3.5 0",
+        "libvpx 1.7.0 h439df22_0",
+        "ncurses 5.9 10",
+        "nettle 3.3 0",
+        "openssl 1.0.2o 0",
+        "pip 9.0.3 py36_0",
+        "pkg-config 0.29.2 1",
+        "python 3.6.5 1",
+        "readline 7.0 0",
+        "setuptools 39.2.0 py36_0",
+        "sqlite 3.20.1 2",
+        "tk 8.6.7 0",
+        "wheel 0.31.0 py36_0",
+        "x264 20180621 0",
+        "x265 2.8 0",
+        "xz 5.2.3 0",
+        "zlib 1.2.11 h470a237_3"
+      ],
+      "run": [
+        "ffmpeg",
+        "numpy",
+        "pillow",
+        "python >=3.6,<3.7.0a0"
+      ]
+    },
+    "source": {
+      "fn": "v0.4.0_1.0.tar.gz",
+      "sha256": "e762d2731a6e205ce2efc56d74acef867e188850fc09b06880951d23a8dfce02",
+      "url": "https://github.com/rvillalba-novetta/PyAV/archive/v0.4.0_1.0.tar.gz"
+    },
+    "test": {
+      "imports": [
+        "av"
+      ]
+    }
+  },
+  "av-0.4.1-py36_0.tar.bz2": {
+    "about": {
+      "description": "PyAV is a Pythonic binding for FFmpeg or Libav. We aim to provide all of\nthe power and control of the underlying library, but manage the gritty\ndetails as much as possible.\n",
+      "dev_url": "https://github.com/mikeboers/PyAV/",
+      "doc_url": "http://mikeboers.github.io/PyAV/",
+      "home": "https://github.com/mikeboers/PyAV/",
+      "license": "BSD 3-Clause",
+      "license_file": "LICENSE.txt",
+      "summary": "Pythonic bindings for FFmpeg."
+    },
+    "build": {
+      "number": "0",
+      "script": "python setup.py install --single-version-externally-managed --record record.txt",
+      "string": "py36_0"
+    },
+    "extra": {
+      "copy_test_source_files": true,
+      "final": true
+    },
+    "package": {
+      "name": "av",
+      "version": "0.4.1"
+    },
+    "requirements": {
+      "build": [
+        "bzip2 1.0.6 1",
+        "ca-certificates 2018.4.16 0",
+        "certifi 2018.4.16 py36_0",
+        "cython 0.28.3 py36hfc679d8_0",
+        "ffmpeg 4.0 0",
+        "freetype 2.8.1 0",
+        "gmp 6.1.2 hfc679d8_0",
+        "gnutls 3.5.17 0",
+        "libgcc-ng 7.2.0 hdf63c60_3",
+        "libiconv 1.15 h470a237_1",
+        "libidn11 1.33 0",
+        "libogg 1.3.2 0",
+        "libpng 1.6.34 0",
+        "libstdcxx-ng 7.2.0 hdf63c60_3",
+        "libtheora 1.1.1 h470a237_1",
+        "libvorbis 1.3.5 0",
+        "libvpx 1.7.0 h439df22_0",
+        "ncurses 5.9 10",
+        "nettle 3.3 0",
+        "openssl 1.0.2o 0",
+        "pip 9.0.3 py36_0",
+        "pkg-config 0.29.2 1",
+        "python 3.6.5 1",
+        "readline 7.0 0",
+        "setuptools 39.2.0 py36_0",
+        "sqlite 3.20.1 2",
+        "tk 8.6.7 0",
+        "wheel 0.31.0 py36_0",
+        "x264 20180621 0",
+        "x265 2.8 0",
+        "xz 5.2.3 0",
+        "zlib 1.2.11 h470a237_3"
+      ],
+      "run": [
+        "ffmpeg",
+        "numpy",
+        "pillow",
+        "python >=3.6,<3.7.0a0"
+      ]
+    },
+    "source": {
+      "fn": "av-0.4.1.tar.gz",
+      "sha256": "bf9a8d113392c6a445f424e16f9e64ac53d1db1548731e6326763d555647c24f",
+      "url": "https://pypi.io/packages/source/a/av/av-0.4.1.tar.gz"
+    },
+    "test": {
+      "imports": [
+        "av"
+      ]
+    }
+  },
+  "ffmpeg-4.0-0.tar.bz2": {
+    "about": {
+      "home": "http://www.ffmpeg.org/",
+      "license": "GPL 3",
+      "license_file": "COPYING.GPLv3",
+      "summary": "Cross-platform solution to record, convert and stream audio and video."
+    },
+    "build": {
+      "number": "0",
+      "string": "0"
+    },
+    "extra": {
+      "copy_test_source_files": true,
+      "final": true
+    },
+    "package": {
+      "name": "ffmpeg",
+      "version": "4.0"
+    },
+    "requirements": {
+      "build": [
+        "cloog 0.18.0 0",
+        "gcc 4.8.5 7",
+        "gmp 6.1.2 hfc679d8_0",
+        "gnutls 3.5.17 0",
+        "isl 0.12.2 0",
+        "libgcc-ng 7.2.0 hdf63c60_3",
+        "libidn11 1.33 0",
+        "libogg 1.3.2 0",
+        "libpng 1.6.34 0",
+        "libstdcxx-ng 7.2.0 hdf63c60_3",
+        "libtheora 1.1.1 h470a237_1",
+        "libtool 2.4.6 0",
+        "libvorbis 1.3.5 0",
+        "mpc 1.1.0 4",
+        "mpfr 3.1.5 0",
+        "nasm 2.13.02 0",
+        "nettle 3.3 0",
+        "pkg-config 0.29.2 1",
+        "zlib 1.2.11 h470a237_3"
+      ],
+      "host": [
+        "bzip2 1.0.6 1",
+        "freetype 2.8.1 0",
+        "gmp 6.1.2 hfc679d8_0",
+        "gnutls 3.5.17 0",
+        "libgcc-ng 7.2.0 hdf63c60_3",
+        "libiconv 1.15 h470a237_1",
+        "libidn11 1.33 0",
+        "libogg 1.3.2 0",
+        "libpng 1.6.34 0",
+        "libstdcxx-ng 7.2.0 hdf63c60_3",
+        "libtheora 1.1.1 h470a237_1",
+        "libvorbis 1.3.5 0",
+        "libvpx 1.7.0 h439df22_0",
+        "nettle 3.3 0",
+        "x264 20180621 0",
+        "x265 2.8 0",
+        "zlib 1.2.11 h470a237_3"
+      ],
+      "run": [
+        "bzip2",
+        "freetype",
+        "gnutls",
+        "libiconv",
+        "libiconv >=1.15,<2.0a0",
+        "libtheora",
+        "libvpx",
+        "libvpx >=1.7.0,<1.8.0a0",
+        "x264",
+        "x265",
+        "zlib",
+        "zlib >=1.2.11,<1.3.0a0"
+      ]
+    },
+    "source": {
+      "fn": "ffmpeg-4.0.tar.gz",
+      "sha256": "dc4b1c622baa34fc68d763cd2818e419d1af90271e0506604905f25a46ea8273",
+      "url": "https://ffmpeg.org/releases/ffmpeg-4.0.tar.gz"
+    },
+    "test": {
+      "commands": [
+        "ffmpeg --help",
+        "ffmpeg -codecs | grep \"DEVI.S zlib\"",
+        "ffmpeg -codecs | grep \"DEV.LS h264\"",
+        "ffmpeg -codecs | grep \"DEV.L. hevc\"",
+        "ffmpeg -codecs | grep \"DEV.L. vp8\"",
+        "ffmpeg -codecs | grep \"DEV.L. vp9\"",
+        "ffmpeg -codecs | grep \"DEV.L. theora\"",
+        "ffmpeg -protocols | grep \"https\"",
+        "ffmpeg -protocols | grep \"udp\"",
+        "ffmpeg -protocols | grep \"rtp\"",
+        "ffmpeg -protocols | grep \"srtp\"",
+        "test -f $PREFIX/lib/libavcodec.so",
+        "test -f $PREFIX/lib/libavdevice.so",
+        "test -f $PREFIX/lib/libswresample.so",
+        "test -f $PREFIX/lib/libpostproc.so",
+        "test -f $PREFIX/lib/libavfilter.so",
+        "test -f $PREFIX/lib/libswresample.so",
+        "test -f $PREFIX/lib/libavcodec.so",
+        "test -f $PREFIX/lib/libavformat.so",
+        "test -f $PREFIX/lib/libswscale.so",
+        "conda inspect linkages -p $PREFIX $PKG_NAME"
+      ]
+    }
+  },
+  "gnutls-3.3.26-0.tar.bz2": {
+    "about": {
+      "dev_url": "https://gitlab.com/gnutls/gnutls/tree/master",
+      "doc_url": "http://www.gnutls.org/documentation.html",
+      "home": "http://www.gnutls.org/index.html",
+      "license": "GPL 2.1",
+      "license_family": "GPL",
+      "license_file": "COPYING",
+      "summary": "GnuTLS is a secure communications library implementing the SSL, TLS and DTLS protocols"
+    },
+    "build": {
+      "number": "0",
+      "string": "0"
+    },
+    "extra": {
+      "copy_test_source_files": true,
+      "final": true
+    },
+    "package": {
+      "name": "gnutls",
+      "version": "3.3.26"
+    },
+    "requirements": {
+      "build": [
+        "autoconf 2.69 pl5.22.2.1_5",
+        "automake 1.15.1 pl5.22.2.1_0",
+        "gmp 6.1.2 hfc679d8_0",
+        "libgcc-ng 7.2.0 hdf63c60_3",
+        "libstdcxx-ng 7.2.0 hdf63c60_3",
+        "libtool 2.4.6 0",
+        "m4 1.4.18 0",
+        "nettle 2.7 0",
+        "perl 5.22.2.1 0",
+        "toolchain3 1.1.1 0",
+        "zlib 1.2.11 h470a237_3"
+      ],
+      "run": [
+        "gmp",
+        "gmp >=6.1.2,<7.0a0",
+        "nettle 2.7.*",
+        "zlib",
+        "zlib >=1.2.11,<1.3.0a0"
+      ]
+    },
+    "source": {
+      "fn": "gnutls-3.3.26.tar.xz",
+      "sha256": "6a7d882b6b581d684883fde195abf930dab37dfbe6aaea88ab164252bec720d9",
+      "url": "ftp://ftp.gnutls.org/gcrypt/gnutls/v3.3/gnutls-3.3.26.tar.xz"
+    },
+    "test": {
+      "commands": [
+        "conda inspect linkages -p $PREFIX gnutls",
+        "test -f ${PREFIX}/lib/libgnutls.so",
+        "test -f ${PREFIX}/lib/libgnutlsxx.so"
+      ]
+    }
+  },
+  "nettle-2.7-0.tar.bz2": {
+    "about": {
+      "description": "Nettle is a low-level cryptographic library that is designed to fit easily in more or less any context. In crypto toolkits for object-oriented languages (C++, Python, Pike, ...), in applications like LSH or GNUPG, or even in kernel space. Simple, fast, extensible JSON encoder/decoder for Python",
+      "dev_url": "https://git.lysator.liu.se/nettle/nettle",
+      "doc_url": "https://www.lysator.liu.se/~nisse/nettle/nettle.html",
+      "home": "https://www.lysator.liu.se/~nisse/nettle/",
+      "license": "GPL 2 and LGPL3",
+      "license_family": "GPL",
+      "license_file": "COPYING.LIB",
+      "summary": "Nettle is a low-level cryptographic library that is designed to fit easily in more or less any context"
+    },
+    "build": {
+      "number": "0",
+      "string": "0"
+    },
+    "extra": {
+      "copy_test_source_files": true,
+      "final": true
+    },
+    "package": {
+      "name": "nettle",
+      "version": "2.7"
+    },
+    "requirements": {
+      "build": [
+        "gmp 6.1.2 hfc679d8_0",
+        "libgcc-ng 7.2.0 hdf63c60_3",
+        "libstdcxx-ng 7.2.0 hdf63c60_3",
+        "m4 1.4.18 0",
+        "toolchain3 1.1.1 0"
+      ],
+      "run": [
+        "gmp",
+        "gmp >=6.1.2,<7.0a0"
+      ]
+    },
+    "source": {
+      "fn": "nettle-2.7.tar.gz",
+      "sha256": "c294ea133c05382cc2effb1734d49f4abeb1ad8515543a333de49a11422cd4d6",
+      "url": "https://ftp.gnu.org/gnu/nettle/nettle-2.7.tar.gz"
+    },
+    "test": {
+      "commands": [
+        "conda inspect linkages -p $PREFIX nettle",
+        "test -f ${PREFIX}/lib/libnettle.so",
+        "test -f ${PREFIX}/lib/libhogweed.so",
+        "test -f ${PREFIX}/lib/libnettle.a",
+        "test -f ${PREFIX}/lib/libhogweed.a"
+      ]
+    }
+  },
+  "pyinstrument-20180621-0.tar.bz2": {
+    "about": {
+      "home": "http://www.videolan.org/developers/x264.html",
+      "license": "GPL 2",
+      "license_file": "COPYING",
+      "summary": "A free software library for encoding video streams into the H.264/MPEG-4 AVC format."
+    },
+    "build": {
+      "number": "0",
+      "string": "0"
+    },
+    "extra": {
+      "copy_test_source_files": true,
+      "final": true
+    },
+    "package": {
+      "name": "pyinstrument",
+      "version": "20180621"
+    },
+    "requirements": {
+      "build": [
+        "libgcc-ng 7.2.0 hdf63c60_3",
+        "yasm 1.3.0 h99c0ef8_2"
+      ]
+    },
+    "source": {
+      "fn": "x264-snapshot-20180621-2245-stable.tar.bz2",
+      "sha256": "0b2cc643dc830885bf5db92cc3dfe075df277974607de2de1284f884feb1fc7c",
+      "url": "http://download.videolan.org/pub/videolan/x264/snapshots/x264-snapshot-20180621-2245-stable.tar.bz2"
+    },
+    "test": {
+      "commands": [
+        "test -f ${PREFIX}/include/x264.h",
+        "test -f ${PREFIX}/lib/libx264.a",
+        "test -f ${PREFIX}/lib/libx264.so",
+        "x264 --help"
+      ]
+    }
+  },
+  "x264-20180621-0.tar.bz2": {
+    "about": {
+      "home": "http://www.videolan.org/developers/x264.html",
+      "license": "GPL 2",
+      "license_file": "COPYING",
+      "summary": "A free software library for encoding video streams into the H.264/MPEG-4 AVC format."
+    },
+    "build": {
+      "number": "0",
+      "string": "0"
+    },
+    "extra": {
+      "copy_test_source_files": true,
+      "final": true
+    },
+    "package": {
+      "name": "x264",
+      "version": "20180621"
+    },
+    "requirements": {
+      "build": [
+        "yasm 1.3.0 0"
+      ]
+    },
+    "source": {
+      "fn": "x264-snapshot-20180621-2245-stable.tar.bz2",
+      "sha256": "0b2cc643dc830885bf5db92cc3dfe075df277974607de2de1284f884feb1fc7c",
+      "url": "http://download.videolan.org/pub/videolan/x264/snapshots/x264-snapshot-20180621-2245-stable.tar.bz2"
+    },
+    "test": {
+      "commands": [
+        "test -f ${PREFIX}/include/x264.h",
+        "test -f ${PREFIX}/lib/libx264.a",
+        "test -f ${PREFIX}/lib/libx264.so",
+        "x264 --help"
+      ]
+    }
+  },
+  "x265-2.8-0.tar.bz2": {
+    "about": {
+      "home": "https://bitbucket.org/multicoreware/x265/wiki/Home",
+      "license": "GPL 2",
+      "license_file": "COPYING",
+      "summary": "An open source HEVC encoder."
+    },
+    "build": {
+      "number": "0",
+      "string": "0"
+    },
+    "extra": {
+      "copy_test_source_files": true,
+      "final": true
+    },
+    "package": {
+      "name": "x265",
+      "version": "2.8"
+    },
+    "requirements": {
+      "build": [
+        "bzip2 1.0.6 1",
+        "ca-certificates 2018.4.16 0",
+        "cmake 3.11.4 0",
+        "curl 7.60.0 0",
+        "expat 2.2.5 0",
+        "krb5 1.14.6 0",
+        "libgcc-ng 7.2.0 hdf63c60_3",
+        "libssh2 1.8.0 h5b517e9_2",
+        "libuv 1.20.3 0",
+        "ncurses 5.9 10",
+        "openssl 1.0.2o 0",
+        "rhash 1.3.4 0",
+        "xz 5.2.3 0",
+        "yasm 1.3.0 0",
+        "zlib 1.2.11 h470a237_3"
+      ]
+    },
+    "source": {
+      "fn": "x265_2.8.tar.gz",
+      "sha256": "6e59f9afc0c2b87a46f98e33b5159d56ffb3558a49d8e3d79cb7fdc6b7aaa863",
+      "url": "http://ftp.videolan.org/pub/videolan/x265/x265_2.8.tar.gz"
+    },
+    "test": {
+      "commands": [
+        "test -f ${PREFIX}/include/x265.h",
+        "test -f ${PREFIX}/include/x265_config.h",
+        "test -f ${PREFIX}/lib/libx265.a",
+        "test -f ${PREFIX}/lib/libx265.so",
+        "x265 --version"
+      ]
+    }
+  }
+}
