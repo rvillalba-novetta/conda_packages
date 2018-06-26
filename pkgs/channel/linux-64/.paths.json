@@ -122,8 +122,8 @@
         "_path": "lib/python3.6/site-packages/av/_core.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "4b7f6abe7e1fa2da5486e95b2a508f53c4fa80dc5a39960346272061f68f61c2",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "96f99ea8765483582cd84bdd90fcd1b39f9cfcda34c0e74282cb9bb355ca2f50",
         "size_in_bytes": 105936
       },
       {
@@ -142,80 +142,80 @@
         "_path": "lib/python3.6/site-packages/av/audio/codeccontext.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "cc87cf8ac3c652ee3e0f56051d23b8b34140e21d766a09f2c4f349e594e1deac",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "3799287209cc9f82eea0fbc276d2a19733cc2c2d853f77f1ad1d80bd57193676",
         "size_in_bytes": 240488
       },
       {
         "_path": "lib/python3.6/site-packages/av/audio/fifo.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "5df55e15350c98e889e54facf37632a1c816873353566fe61eeb67cb0a40eb12",
-        "size_in_bytes": 279472
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "76399b2e34cdf61bd69d98e9695a28e75267f08798707d31e8f9f37f5a326a0d",
+        "size_in_bytes": 279480
       },
       {
         "_path": "lib/python3.6/site-packages/av/audio/format.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "bc5948978eebc23d2bad2007a882ee09c01aa9de54147ac527e48ffd290bb22b",
-        "size_in_bytes": 155304
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "764a8710f0e5bf1693d40e9cbfe137ac6267eb977cfe11ec2ef73066bcf5edc6",
+        "size_in_bytes": 155312
       },
       {
         "_path": "lib/python3.6/site-packages/av/audio/frame.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "5a6b7c18a5bcc17b04ea651cf9b4ee969a0010eee8320d792ff6f07ff5db556e",
-        "size_in_bytes": 361648
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "9356d6a24b8f4fde976feb849e1f28a1f3c9d8d466a18e81d6402050e10a98ec",
+        "size_in_bytes": 361656
       },
       {
         "_path": "lib/python3.6/site-packages/av/audio/layout.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "82a02d55deba0416a7db407a1194e266429be2a0726aca861fe4abab9d70bcf3",
-        "size_in_bytes": 287192
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "db770a2df601abbf1cd55ca44109110dfb35d36e2c3b05a13cb4eaeba692e19a",
+        "size_in_bytes": 287200
       },
       {
         "_path": "lib/python3.6/site-packages/av/audio/plane.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "78f4057d46ba10a471836ba284ddb9986b833991e5e5319f01edd77679b8f877",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "37bd9a17fc445b17cd23a17e3a0308854b2b712a5e5243c63c08c427707d0f0b",
         "size_in_bytes": 167400
       },
       {
         "_path": "lib/python3.6/site-packages/av/audio/resampler.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "817c0a4bd97421bdc254270e54782664634cdd6a198ac7f50a39b07c083593e0",
-        "size_in_bytes": 280952
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "7b38bdf11a6da1422294e38563d85f1d2fc5718c3a3b4f21c0ab03349619b63b",
+        "size_in_bytes": 280960
       },
       {
         "_path": "lib/python3.6/site-packages/av/audio/stream.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "6fabc16a88f2f8c933ad2959b68dcbd2d33aaeb0d5a14fcea86e9eebd45f7cdb",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "3372829df89e089a2707e21e60a55660afcbc3b1ef854d473de5bde7db9fcfa3",
         "size_in_bytes": 173528
       },
       {
         "_path": "lib/python3.6/site-packages/av/buffer.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "1de620d691842e7c1e46a31fa1cd7cc88c3b2ab928940e4e3bbb1f6f737f4c0f",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "0b332cbad10590d24986f88596a80f9a38148393a7ead509f98b0c2fe35443d7",
         "size_in_bytes": 294056
       },
       {
         "_path": "lib/python3.6/site-packages/av/bytesource.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "bd235969ccf70196f40746de07048c8d379dcb1df95fbd56ee9509e9edd5296b",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "7bb10dee920b30fd101cecb20c68810bded0d6a87cdeec23580bc1e4ae130c68",
         "size_in_bytes": 124800
       },
       {
@@ -234,16 +234,16 @@
         "_path": "lib/python3.6/site-packages/av/codec/codec.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "3af945ceb56f7a7b9af52d3d10f4709397eff8f7d7fb328ad7b7fcd579dc86ab",
-        "size_in_bytes": 371976
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "c36c052db641cabe8e5e447369ffb032fee12b97262530df83f7c3a7a21bac80",
+        "size_in_bytes": 371984
       },
       {
         "_path": "lib/python3.6/site-packages/av/codec/context.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "cb1ba7b3a36a8541edeef440604f7e79ab26fb53d242826b77a35a62ae759dcf",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "9d137a96a32dd2fd5f15eb629a5a0e0b21cd4f5fd48ffd9fb7b64ebdac74ba5c",
         "size_in_bytes": 574544
       },
       {
@@ -262,40 +262,40 @@
         "_path": "lib/python3.6/site-packages/av/container/core.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "854ff9fad387405de781e878392c0ebced212667f9d1ed35fb994f8572ad8649",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "8e8574fac909be3468c4aa15fbdcfef4c8ede5b5808a2dd6bf1f971d7e62a8ba",
         "size_in_bytes": 479664
       },
       {
         "_path": "lib/python3.6/site-packages/av/container/input.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "bbe6664d5b843ea15618d69d1337a58f2fb6102bd49a254f6c9928dfccdb1e0f",
-        "size_in_bytes": 397184
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "0c035d20a2f92d995ae6356d9f5099e5b56b3ea75cbdd0eca908c3171bc95fa2",
+        "size_in_bytes": 397192
       },
       {
         "_path": "lib/python3.6/site-packages/av/container/output.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "71fceb454481adf78156e331e6c91421979fc854ccf292582bfeed8c64d6528e",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "c7e8eb3928e6166c29731066d5983e385e17419790d20b909667fcf255463774",
         "size_in_bytes": 372936
       },
       {
         "_path": "lib/python3.6/site-packages/av/container/pyio.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "c16dfb3764977374de28528933f1d40cac1689f890c4ef2a918eed4af670e244",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "80ff6d0ced4c7377e1723fc6c59e212ebc146dfac45ace9632a8034d366d0bca",
         "size_in_bytes": 224856
       },
       {
         "_path": "lib/python3.6/site-packages/av/container/streams.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "be32e80d4cad9642811fd2752ae00463fb1164800d7a8d8f0b243072f9c8eefd",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "47fe9dc7ae6ec9e9dcb1d323f221550391b91026c831bf58a0d48e5aadcee2b0",
         "size_in_bytes": 400608
       },
       {
@@ -314,32 +314,32 @@
         "_path": "lib/python3.6/site-packages/av/data/stream.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "fb056544972cb51d14522843705a60e0dd45f2900b70577377be63a3529a5710",
-        "size_in_bytes": 192800
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "0ea8788049dc39ce83ad7b1b35c30ad385bd3b396b07ab19120668f65fb92c40",
+        "size_in_bytes": 192808
       },
       {
         "_path": "lib/python3.6/site-packages/av/descriptor.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "f558732c2d1dd47723c54f32ebcece2ef4b6ad263e6fd316b6aa11001a6455e5",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "fb2ce2941f88c5e922f4c21a50d05e0800b20fa7a061a38250b1673e50144434",
         "size_in_bytes": 148168
       },
       {
         "_path": "lib/python3.6/site-packages/av/dictionary.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "c53fc01e58133f5714e71a9d2927f06410ccc4dbe9c6acfdb093cdd22351aeac",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "637285b53ef9d6170adf02037920d0e55322fa6c8dc7da190c8ffdd488dd73ef",
         "size_in_bytes": 286288
       },
       {
         "_path": "lib/python3.6/site-packages/av/enums.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "6691cba6edbf7af1a22fabe0df7fc0fe3ca0dbde786b9bcbe0a5bc2408402565",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "7c62d9f710b9da3664749a64ca625b01fb92c13b2e53418ef796938ecc136557",
         "size_in_bytes": 646472
       },
       {
@@ -358,96 +358,96 @@
         "_path": "lib/python3.6/site-packages/av/filter/context.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "1ffff931e5e0caf438792414432f136a5a79f36e10b0a90edc05176714341073",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "5bd5de98ff1e8dd140b9b69ca19b5e1664ddf052ba8417d8243cf312f947d205",
         "size_in_bytes": 343896
       },
       {
         "_path": "lib/python3.6/site-packages/av/filter/filter.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "03ecb5c6769e37dbe3a0dd518260cc6cd0a12e827ccffe0a2bdc4edc3f401ebf",
-        "size_in_bytes": 421400
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "e882b63df09bf4bc6003bf0b57b323427f4a06065a618a126454ed76ee9f49b6",
+        "size_in_bytes": 421408
       },
       {
         "_path": "lib/python3.6/site-packages/av/filter/graph.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "7aef18fe10c1635703fcdfa964a3ebda068f7f139468e3db7ed5b2704b752080",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "1390ce52e8259050cc47d6c7afd5ca744a9c1edcd909e713fa42c1143b4c2bf5",
         "size_in_bytes": 326520
       },
       {
         "_path": "lib/python3.6/site-packages/av/filter/link.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "4cc89927067ab9faf445df5549d6a759d2886617e5b3858921ef85166c041a38",
-        "size_in_bytes": 176736
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "a198e4e31ead7ec12f9178bd3c97e8a12f6029c59b7eed8f078129756e884087",
+        "size_in_bytes": 176744
       },
       {
         "_path": "lib/python3.6/site-packages/av/filter/pad.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "67de9bf053abe9aaf6537ff3313702fa6a93eb5689f2447669a08227ebc5d719",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "9e8770ff2f912b5d85df07845357472e49fe7b7ef48a3130bf4d8f3e8fa1276a",
         "size_in_bytes": 196592
       },
       {
         "_path": "lib/python3.6/site-packages/av/format.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "1ce84b12736a6ae88d77b3bbf25cf2c311921d621f81a9447beb521ff027db74",
-        "size_in_bytes": 246152
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "7db07723b7712756f94ae348afe87e8f79a039a093d7982c85f2a84f7d471684",
+        "size_in_bytes": 246160
       },
       {
         "_path": "lib/python3.6/site-packages/av/frame.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "7cca46320533dadff27c014e10c32b14b386b85526179c4370dc419be130b1a5",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "1214f7c620bb5553359f38e4ccb31456f27882248bda22ad96ead0768817aa10",
         "size_in_bytes": 219128
       },
       {
         "_path": "lib/python3.6/site-packages/av/logging.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "d47a7e730787dd83194fa1026c1b98650490f6e65d59dd1cd89aed1a6386da16",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "7a448f53fb60d9dbcca7f51f41d4c1be80b637d3ea3d2e3afac33ff2749717e1",
         "size_in_bytes": 456144
       },
       {
         "_path": "lib/python3.6/site-packages/av/option.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "7c323cf123a07326eb12f9e11d8220befe7e6880fa2f4e49d846e03461147c84",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "9fdb031b22bec67ccae0dcae402ef9b1c9b7f4d41a5492f03ca71b07da298bed",
         "size_in_bytes": 275880
       },
       {
         "_path": "lib/python3.6/site-packages/av/packet.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "0f64fa0b852815e1041153e46017cc01dc5fb6c613815d1389d2cfb2943f96fe",
-        "size_in_bytes": 275080
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "292997cd756a72c6e0b379cdb11e550791b992db2c727c58c60ddd0f26609806",
+        "size_in_bytes": 275088
       },
       {
         "_path": "lib/python3.6/site-packages/av/plane.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "852bab79244d585a0586904c76881186f09bc80e6b92f0f2135e994d0e850042",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "716652a9d504909668fa973d7f55fa5486f60d79cbefe423bbf2321ef86d0b84",
         "size_in_bytes": 206920
       },
       {
         "_path": "lib/python3.6/site-packages/av/stream.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "094c8719eacdf42324f6361d8874eeabed5a9fe13857181b420fab7a688458ca",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "46d82b01fef2993b35d7940fa51c2ca14ba06beac8ea6e7eceda5238b5f61ff1",
         "size_in_bytes": 352976
       },
       {
@@ -466,33 +466,33 @@
         "_path": "lib/python3.6/site-packages/av/subtitles/codeccontext.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "21b3f41532d5ec649b6671afed6c4196f6cc7e4a4ac9233ae84ccf1f7cf091eb",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "f014b2208e053170ff9335192f8f3e2ccc9066fde8200d1bbf7d54bbe4ff8d21",
         "size_in_bytes": 168280
       },
       {
         "_path": "lib/python3.6/site-packages/av/subtitles/stream.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "088220b430ad62a767e0c7d187b4df20956d9ace7f40bf21d8eac0be1cbd001e",
-        "size_in_bytes": 146816
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "6be3e4bf095a1387b1a69d2686e143af169e4f0ba365664891fab01e80c4f779",
+        "size_in_bytes": 146824
       },
       {
         "_path": "lib/python3.6/site-packages/av/subtitles/subtitle.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "843770c17378e2063702fd5395d7fbdc4c47f6c0e2442455641919c40b87321b",
-        "size_in_bytes": 517888
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "4bb3ac190bd757af0991d9571c3191ce24dca1571e1f3e930fda53b46f6e2865",
+        "size_in_bytes": 517896
       },
       {
         "_path": "lib/python3.6/site-packages/av/utils.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "6502a860fce279eb41709fc02f808b47b6be8dc18aa1c31c728e2a4f0a563124",
-        "size_in_bytes": 392960
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "06315f8fd89d26000dd87871889a2494cafae2c3173abf155624f9d74fed82b3",
+        "size_in_bytes": 392968
       },
       {
         "_path": "lib/python3.6/site-packages/av/video/__init__.py",
@@ -510,48 +510,48 @@
         "_path": "lib/python3.6/site-packages/av/video/codeccontext.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "ede4b431ba39a9f1a3cf334f57ce292e33d96f728b43cda606c1cca1e43675db",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "f9b6bfa71069b4ad1e6ddb2014fd77129ebb86ed2f9b5e673eee6ad19596a528",
         "size_in_bytes": 329808
       },
       {
         "_path": "lib/python3.6/site-packages/av/video/format.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "cbd1b0061d4aaba56dcc7b38c9922079066d45deabd33bcd34443bd2babcb4bb",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "f7bcfbefa2d86273e309d7a0e03d277eb6dc05480da867a737e162f1a1c3e42f",
         "size_in_bytes": 279368
       },
       {
         "_path": "lib/python3.6/site-packages/av/video/frame.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "981f61a77e345d76f8ae9fcd020e103cab539b9817b852100e37ab1c4f2ace50",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "e637707745b37851f5e9f8e995b9e7bbe77945bca463d77270208177a35b0d13",
         "size_in_bytes": 590016
       },
       {
         "_path": "lib/python3.6/site-packages/av/video/plane.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "f507a2032e0ab7cd91122dd1e056eb9e1dff0d5c8390983c6cfad207c14cbc62",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "91cc1feff7f1e656214a18d14001cabe7984f75eff08cdc9ffb2384cd60f11ac",
         "size_in_bytes": 199528
       },
       {
         "_path": "lib/python3.6/site-packages/av/video/reformatter.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "47a7ca05c3ba7d8e62cb0398ae912d138e96d58c8addad4a44c79de71f33a7a8",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "d21bacd49a7917241587f9769abdfa93ac2341219e6bc0527a7ab15a6d0dd039",
         "size_in_bytes": 81240
       },
       {
         "_path": "lib/python3.6/site-packages/av/video/stream.cpython-36m-x86_64-linux-gnu.so",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/av_1530026347401/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehol",
-        "sha256": "560071ddbbe12f2006b8ba0ee44ff9f123ad89f1013e4fc564bba531a8ca63b5",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av_1530033074373/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_place",
+        "sha256": "de39df0fd7ce88b17a33c6c1762afeb8de23dfc85d17cc9723743bc52118213d",
         "size_in_bytes": 177808
       }
     ],
@@ -1066,23 +1066,532 @@
     ],
     "paths_version": 1
   },
+  "av-cuda-0.4.0_1.0-py36_0.tar.bz2": {
+    "paths": [
+      {
+        "_path": "bin/pyav",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "6d8de4b885266878311ed4f00d46c74c41532f2e858d5a2d36ec93a5559457c1",
+        "size_in_bytes": 403
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av-0.4.1.dev0-py3.6.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "c0cad33532925a9de1ec3037a70a405d14e35b3505752853d756d95b31df9cd0",
+        "size_in_bytes": 3089
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av-0.4.1.dev0-py3.6.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "5671660f28bbbabeb007107adc96dd0186fe139a612a5bf01ca06d750852ea08",
+        "size_in_bytes": 5335
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av-0.4.1.dev0-py3.6.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av-0.4.1.dev0-py3.6.egg-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "38c076459311f571f4a5aed400f2c03794cd6779fa60ab0903c1816847357cc2",
+        "size_in_bytes": 43
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av-0.4.1.dev0-py3.6.egg-info/not-zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av-0.4.1.dev0-py3.6.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "4ee405facb6f14737c8a57ebdfa72da9ceff311e483a152aad1d22ea2e60351f",
+        "size_in_bytes": 3
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c98e4af1160c735e507c49ac56ec38c132e4ed65488eb8b8d0ef0f74a8914fc6",
+        "size_in_bytes": 1044
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "46ac3f8c45133b0fe187fed56c9b9a5fd871106502b8417f6a46b5a1695bee02",
+        "size_in_bytes": 1284
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "d1801aa746c02c6f3089bc701fb105f884e5e6a3c590f52266cbb5250b09dbdb",
+        "size_in_bytes": 1012
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/__pycache__/__main__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "dfb0644c0949b103775f46bcdf34bee56b979b44bdd19b65f981859dbf98744c",
+        "size_in_bytes": 1170
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/_core.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "90376dfdaab495ee3c0467e30bd9d27e599e38ed131fc044daf497dfe9fc4f28",
+        "size_in_bytes": 105944
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "f01486db90c837b0b6fa460729a99cd665fa5955508961ed9ddb1b1a246c7ace",
+        "size_in_bytes": 30
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "db16ccce99d811ead45a986e0fa7586d827d2c1250a01ed31dff59a54fec7d41",
+        "size_in_bytes": 171
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/codeccontext.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "f17c55c207dc048d1b61658e1cc8883bacb616dc7db21436d083f303191955ce",
+        "size_in_bytes": 240496
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/fifo.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "0029fad4f8bb2d2c83f16d75b6d7a19f8739a835f9b831539a9df69a530ea3d1",
+        "size_in_bytes": 279480
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/format.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "fb40115eb005d37183f168231830c419c02f4b4591ba9dbd6a5587b179770687",
+        "size_in_bytes": 155312
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/frame.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "6e961e9cf6245358d868d0626afb78434ac4c17f71b5026e90538e46ec0685d7",
+        "size_in_bytes": 361656
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/layout.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "a9b3bacf228f6e89111da2873a8d07dedf9f0ff7e8acc00ad41b3977575b2d45",
+        "size_in_bytes": 287200
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/plane.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "4ddef1f26d3952127a1aa6ccde6d46441544966c86500e80e6ac03f1889b61cd",
+        "size_in_bytes": 167408
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/resampler.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "9845c359f1034592fa8d4e0683b178046534bf29fcb3f7c0af8c2ae4de5e1694",
+        "size_in_bytes": 280960
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/stream.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "d4d7ebf2758ddc93b5dfbde4d01994ab2caf18718417db2c306f7ac658e9df67",
+        "size_in_bytes": 173536
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/buffer.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "f28e8a1f45fe3c624903562cf64c7c57f4600b4af6be5f4799ad73a4e5543093",
+        "size_in_bytes": 294064
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/bytesource.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "9eb5ed553a303cc26d29ec2844fb1628a2920787ddc8d215c7f46eecfb05cafa",
+        "size_in_bytes": 124808
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/codec/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "33d18a310b16d07156eee45c8356adeb573bdca85185fb88047a95b9fde7ed3c",
+        "size_in_bytes": 95
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/codec/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "e6cfc4b1356c279c7aff574ac65673e029025bae09a78842477d1c09213a7425",
+        "size_in_bytes": 264
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/codec/codec.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "5b5e06e08b905fac87a1d9744a60010d672dc20d620246b011866cba05fe75cd",
+        "size_in_bytes": 371984
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/codec/context.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "33864779b592416c7ea01e37a138230e8373a0e738fad1a9d927bcd50ea8f653",
+        "size_in_bytes": 574552
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/container/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "9efdb746d9dcfb2c746f008fc37016e0acaf2bdc13c847f048408a522c9ff761",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/container/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "2729ee16630982c52df60df10e018096fff40b3dd0408339a77b08b0b1170b27",
+        "size_in_bytes": 278
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/container/core.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "8e3496fc984829345ec6bcb36df345cb77a8839f1f4ab18e52609c010cb0b938",
+        "size_in_bytes": 479672
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/container/input.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "db0808048bac7fb98b720fc9405f7ec7a284796c8d985960fd84cf458b473e32",
+        "size_in_bytes": 397192
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/container/output.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "209595cd899b6cba1b87556a85f078366ac52c056f47a20e7877faeee36c1ef4",
+        "size_in_bytes": 372944
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/container/pyio.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "eb6ceedae9307aaba46ba613dc1c1cbb1cc7439672df78367162e88751bd2285",
+        "size_in_bytes": 224864
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/container/streams.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "c770c1499a26d38f322dd8b9b979ade821a35096d41a76c03688c35f97d9285a",
+        "size_in_bytes": 400616
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/data/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/data/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "b7da76f76ca9f0788ad88d8aaca574ca7ac0681fa5f73325fc09272d0396e556",
+        "size_in_bytes": 130
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/data/stream.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "6a3a1e069c9a078e5b4f15efe374d5c99e79b1f6fa8e3f06bf4e4b5bf5eb5f24",
+        "size_in_bytes": 192808
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/descriptor.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "2e7572a12bf0a55f147880a7e1444959729e25e068bcc818465553939fc61078",
+        "size_in_bytes": 148176
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/dictionary.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "8de109549dd5cbdb4bfeee39d91513da6d8cee710d8e8ab3624b0f323a011ed0",
+        "size_in_bytes": 286296
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/enums.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "886926ec7a679a5db52903e7af2eb049d8ba44eaec88e50cdb778326d6fcd615",
+        "size_in_bytes": 646480
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/filter/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "697d987744935cc2ce83cc7d7086117aea343a1da1bd33b94321ba6b6cf4f8c1",
+        "size_in_bytes": 103
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/filter/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "77081583070d3be6b4d74a4f15cc4b26951cfd8ceff3f043d0149395962b4663",
+        "size_in_bytes": 282
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/filter/context.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "747d774e42c81cab6f263ee301209d343509bd3240210d5ed82d414e05f36178",
+        "size_in_bytes": 343904
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/filter/filter.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "7410f8a1b5ab7daaa8860ed39f43f1799483bce19352bac1c7326765b71d1369",
+        "size_in_bytes": 421408
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/filter/graph.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "92cbe2ac7ebc513e65b543a9feaff2ef377329fa4577b6d0614169432f48e00a",
+        "size_in_bytes": 326528
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/filter/link.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "0f89c3dc8eeecc1ad8adf024f84010153a60c93abbb3242fd3dda412b155c186",
+        "size_in_bytes": 176744
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/filter/pad.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "64997ce189f9ba835d6e687f5880b689b46283b6ae4307ba71e94a8caf3178de",
+        "size_in_bytes": 196600
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/format.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "7625300a2f6bdef6d23f7849d593db88fcbdef7648f2963e19b44827c3615250",
+        "size_in_bytes": 246160
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/frame.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "e4550e6ba093af244a5fb8bac45385b27db991e2bc15f37d3f552888d579f715",
+        "size_in_bytes": 219136
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/logging.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "1258d04c5e6977f7fbcb5b5854f900b2064de13fe310da8721f2c79da5f7ab19",
+        "size_in_bytes": 456152
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/option.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "74e85dbd57d76de19121d7ff0048716ed108c66c63364f7241e07c44666447eb",
+        "size_in_bytes": 275888
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/packet.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "999aa64f67e23190c4d9c6c6a96f4c2c8059ffad662acfc3b3b9331f0afddf73",
+        "size_in_bytes": 275088
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/plane.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "e027bbb5a71217fa3cf9f7753451e79dd4ba795787021a0b56c79a80f55517bc",
+        "size_in_bytes": 206928
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/stream.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "6e419981d3fe8f7fa47fd345e092f9c553e333388b5c64c7af2cff8cd8c829bc",
+        "size_in_bytes": 352984
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/subtitles/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/subtitles/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "f833f9b2147ef05ea7802be072f3b8f07e7720b260f2c207b2e3946b42ee74fe",
+        "size_in_bytes": 135
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/subtitles/codeccontext.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "3e2cff7f8cf6400e680630967a13f81eea18557af50d38218ab3fd1e3288e3cd",
+        "size_in_bytes": 168288
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/subtitles/stream.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "0e7dd461660f7c66fbdfa0e084c1b4f7f6b9c6cdadd56d4d401ee8a54e3e2ace",
+        "size_in_bytes": 146824
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/subtitles/subtitle.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "06f3cfe3412d18e3cc6aee8df6a57af154ecde11923c9d4c4730f52b1977895f",
+        "size_in_bytes": 517896
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/utils.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "f1225fff9babf65f207109458989211a66a81b5041ee29211029a85146b79dbc",
+        "size_in_bytes": 392968
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/video/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0511ffaaee95acb2a71aad61a665e661054efe8fabdf67e7b11f95e8d99b2e2b",
+        "size_in_bytes": 62
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/video/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "77c84b1212ded49dad63e2e035b4610fbbba4f7e2f954b0ecae0c19f254945bb",
+        "size_in_bytes": 213
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/video/codeccontext.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "096f3f700149bde06b31896c580a2b78d6c202109e5de076bd3f8b6f9c6bbf1f",
+        "size_in_bytes": 329816
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/video/format.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "888a8b77b01f7b8baba0c2a07e85203de26aff912fcc807e7fcdfc279619c35a",
+        "size_in_bytes": 279376
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/video/frame.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "7cae4803b3942bd361f59969cace5ed53324c1544d38534adb47dd8551ccea49",
+        "size_in_bytes": 590024
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/video/plane.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "8a9dd3f18642b84bac5929543d4e873a1af722e1bd18d3528001a8ecb40c79d9",
+        "size_in_bytes": 199536
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/video/reformatter.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "66c85d4f865481b682e45adb99fec1b7c834f29632e4db4a91e4026ea7ecf6b5",
+        "size_in_bytes": 81248
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/video/stream.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1530032879857/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "29f17107906525a9a1a671348619ff06ff3d2d4cf8a4e8c569eaf8d24d15cfe8",
+        "size_in_bytes": 177816
+      }
+    ],
+    "paths_version": 1
+  },
   "ffmpeg-4.0-0.tar.bz2": {
     "paths": [
       {
         "_path": "bin/ffmpeg",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/ffmpeg_1530025872286/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
-        "sha256": "0e4204f5a6bf4239a188794710306a9e85de5136e944d0e1b63cdec588c72a3c",
-        "size_in_bytes": 985968
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg_1530032138387/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "fd524a74cbe57772b0b806a4890964c9b5ffa87c4b1f26b6ac08e7e0b1ed7810",
+        "size_in_bytes": 985984
       },
       {
         "_path": "bin/ffprobe",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/ffmpeg_1530025872286/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
-        "sha256": "9059f1e344f5d60c3c881b00a40dc286eff8bea7a443e7c7c97a6010a2c2add5",
-        "size_in_bytes": 616824
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg_1530032138387/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "1ccf53e06cd825be489737b6e6396125965a3f4b045996ffbcca159305b30add",
+        "size_in_bytes": 616840
       },
       {
         "_path": "include/libavcodec/ac3_parser.h",
@@ -1765,162 +2274,162 @@
       {
         "_path": "lib/libavcodec.so",
         "path_type": "softlink",
-        "sha256": "38072b9eee05436b2fb004070447f2fc236baa24980e44d26502b881a8db7ab7",
-        "size_in_bytes": 66356784
+        "sha256": "411f07e0b800eef101179ee9a9373a02f01c1e396d02f9388c93a378c24fe918",
+        "size_in_bytes": 66358736
       },
       {
         "_path": "lib/libavcodec.so.58",
         "path_type": "softlink",
-        "sha256": "38072b9eee05436b2fb004070447f2fc236baa24980e44d26502b881a8db7ab7",
-        "size_in_bytes": 66356784
+        "sha256": "411f07e0b800eef101179ee9a9373a02f01c1e396d02f9388c93a378c24fe918",
+        "size_in_bytes": 66358736
       },
       {
         "_path": "lib/libavcodec.so.58.18.100",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/ffmpeg_1530025872286/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
-        "sha256": "38072b9eee05436b2fb004070447f2fc236baa24980e44d26502b881a8db7ab7",
-        "size_in_bytes": 66356784
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg_1530032138387/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "411f07e0b800eef101179ee9a9373a02f01c1e396d02f9388c93a378c24fe918",
+        "size_in_bytes": 66358736
       },
       {
         "_path": "lib/libavdevice.so",
         "path_type": "softlink",
-        "sha256": "f0290fb5ceaf37a91ffb4aed6ce62ddd4837565f025dbc38fd6640d3cad97dab",
-        "size_in_bytes": 465720
+        "sha256": "0b31054881c28f7cdd1fca54267ec9b9d030e6b84ffd3b44f929b6e93789f394",
+        "size_in_bytes": 465768
       },
       {
         "_path": "lib/libavdevice.so.58",
         "path_type": "softlink",
-        "sha256": "f0290fb5ceaf37a91ffb4aed6ce62ddd4837565f025dbc38fd6640d3cad97dab",
-        "size_in_bytes": 465720
+        "sha256": "0b31054881c28f7cdd1fca54267ec9b9d030e6b84ffd3b44f929b6e93789f394",
+        "size_in_bytes": 465768
       },
       {
         "_path": "lib/libavdevice.so.58.3.100",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/ffmpeg_1530025872286/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
-        "sha256": "f0290fb5ceaf37a91ffb4aed6ce62ddd4837565f025dbc38fd6640d3cad97dab",
-        "size_in_bytes": 465720
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg_1530032138387/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "0b31054881c28f7cdd1fca54267ec9b9d030e6b84ffd3b44f929b6e93789f394",
+        "size_in_bytes": 465768
       },
       {
         "_path": "lib/libavfilter.so",
         "path_type": "softlink",
-        "sha256": "d0f3f21b8a83a2e668c36530ec297b6d3cd449eb8455d722f59611e3acfc7241",
-        "size_in_bytes": 11532344
+        "sha256": "1ac49f3e5743f78a68427f5721f8c5b615dcec45763a7078c675bd780f71700e",
+        "size_in_bytes": 11533288
       },
       {
         "_path": "lib/libavfilter.so.7",
         "path_type": "softlink",
-        "sha256": "d0f3f21b8a83a2e668c36530ec297b6d3cd449eb8455d722f59611e3acfc7241",
-        "size_in_bytes": 11532344
+        "sha256": "1ac49f3e5743f78a68427f5721f8c5b615dcec45763a7078c675bd780f71700e",
+        "size_in_bytes": 11533288
       },
       {
         "_path": "lib/libavfilter.so.7.16.100",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/ffmpeg_1530025872286/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
-        "sha256": "d0f3f21b8a83a2e668c36530ec297b6d3cd449eb8455d722f59611e3acfc7241",
-        "size_in_bytes": 11532344
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg_1530032138387/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "1ac49f3e5743f78a68427f5721f8c5b615dcec45763a7078c675bd780f71700e",
+        "size_in_bytes": 11533288
       },
       {
         "_path": "lib/libavformat.so",
         "path_type": "softlink",
-        "sha256": "8eab7fccc4ce12ec2485e68bc6cd10b4822e062ad1011a2adc370bcebf808184",
-        "size_in_bytes": 18518424
+        "sha256": "a71f394dd4335c0d9cd56c582572186816af8177b84c20c8d369bd66d16b6dc1",
+        "size_in_bytes": 18521392
       },
       {
         "_path": "lib/libavformat.so.58",
         "path_type": "softlink",
-        "sha256": "8eab7fccc4ce12ec2485e68bc6cd10b4822e062ad1011a2adc370bcebf808184",
-        "size_in_bytes": 18518424
+        "sha256": "a71f394dd4335c0d9cd56c582572186816af8177b84c20c8d369bd66d16b6dc1",
+        "size_in_bytes": 18521392
       },
       {
         "_path": "lib/libavformat.so.58.12.100",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/ffmpeg_1530025872286/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
-        "sha256": "8eab7fccc4ce12ec2485e68bc6cd10b4822e062ad1011a2adc370bcebf808184",
-        "size_in_bytes": 18518424
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg_1530032138387/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "a71f394dd4335c0d9cd56c582572186816af8177b84c20c8d369bd66d16b6dc1",
+        "size_in_bytes": 18521392
       },
       {
         "_path": "lib/libavutil.so",
         "path_type": "softlink",
-        "sha256": "b39c09863ea99e5eb4255717b65ab5b3e3d91704e73add269d8054e11fec86bc",
-        "size_in_bytes": 1559256
+        "sha256": "722256c6471a7c537dc0dc7c7309919d3a3d13bcbf17fb556ef3b4aa54f95153",
+        "size_in_bytes": 1559464
       },
       {
         "_path": "lib/libavutil.so.56",
         "path_type": "softlink",
-        "sha256": "b39c09863ea99e5eb4255717b65ab5b3e3d91704e73add269d8054e11fec86bc",
-        "size_in_bytes": 1559256
+        "sha256": "722256c6471a7c537dc0dc7c7309919d3a3d13bcbf17fb556ef3b4aa54f95153",
+        "size_in_bytes": 1559464
       },
       {
         "_path": "lib/libavutil.so.56.14.100",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/ffmpeg_1530025872286/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
-        "sha256": "b39c09863ea99e5eb4255717b65ab5b3e3d91704e73add269d8054e11fec86bc",
-        "size_in_bytes": 1559256
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg_1530032138387/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "722256c6471a7c537dc0dc7c7309919d3a3d13bcbf17fb556ef3b4aa54f95153",
+        "size_in_bytes": 1559464
       },
       {
         "_path": "lib/libpostproc.so",
         "path_type": "softlink",
-        "sha256": "fe39fe40586d9d952438edebc7bbe26ab8a6679bb8ddc9679758c134f1d37921",
-        "size_in_bytes": 394456
+        "sha256": "ea99386366fb51ba02b39c5439723bd226dcddba041a0038d361053d9772a5a1",
+        "size_in_bytes": 394464
       },
       {
         "_path": "lib/libpostproc.so.55",
         "path_type": "softlink",
-        "sha256": "fe39fe40586d9d952438edebc7bbe26ab8a6679bb8ddc9679758c134f1d37921",
-        "size_in_bytes": 394456
+        "sha256": "ea99386366fb51ba02b39c5439723bd226dcddba041a0038d361053d9772a5a1",
+        "size_in_bytes": 394464
       },
       {
         "_path": "lib/libpostproc.so.55.1.100",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/ffmpeg_1530025872286/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
-        "sha256": "fe39fe40586d9d952438edebc7bbe26ab8a6679bb8ddc9679758c134f1d37921",
-        "size_in_bytes": 394456
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg_1530032138387/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "ea99386366fb51ba02b39c5439723bd226dcddba041a0038d361053d9772a5a1",
+        "size_in_bytes": 394464
       },
       {
         "_path": "lib/libswresample.so",
         "path_type": "softlink",
-        "sha256": "f2a627df19abf742ab34298565c7687c1a296de84df75d32a7e5ee9d1f814671",
-        "size_in_bytes": 375400
+        "sha256": "565c116d59431e4af3017f1172c20e78d030f99613d2d0e226f28d467b5463ad",
+        "size_in_bytes": 375432
       },
       {
         "_path": "lib/libswresample.so.3",
         "path_type": "softlink",
-        "sha256": "f2a627df19abf742ab34298565c7687c1a296de84df75d32a7e5ee9d1f814671",
-        "size_in_bytes": 375400
+        "sha256": "565c116d59431e4af3017f1172c20e78d030f99613d2d0e226f28d467b5463ad",
+        "size_in_bytes": 375432
       },
       {
         "_path": "lib/libswresample.so.3.1.100",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/ffmpeg_1530025872286/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
-        "sha256": "f2a627df19abf742ab34298565c7687c1a296de84df75d32a7e5ee9d1f814671",
-        "size_in_bytes": 375400
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg_1530032138387/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "565c116d59431e4af3017f1172c20e78d030f99613d2d0e226f28d467b5463ad",
+        "size_in_bytes": 375432
       },
       {
         "_path": "lib/libswscale.so",
         "path_type": "softlink",
-        "sha256": "8ba5206dacb3d87662288507ee86ac95a58e05781989294b3e86c1e11b2fbdf0",
-        "size_in_bytes": 2775568
+        "sha256": "6ffed70fe11598917d66fa2f72b8d949ae21d7c23ab9f1868c305b80a2dbc5a6",
+        "size_in_bytes": 2775624
       },
       {
         "_path": "lib/libswscale.so.5",
         "path_type": "softlink",
-        "sha256": "8ba5206dacb3d87662288507ee86ac95a58e05781989294b3e86c1e11b2fbdf0",
-        "size_in_bytes": 2775568
+        "sha256": "6ffed70fe11598917d66fa2f72b8d949ae21d7c23ab9f1868c305b80a2dbc5a6",
+        "size_in_bytes": 2775624
       },
       {
         "_path": "lib/libswscale.so.5.1.100",
         "file_mode": "binary",
         "path_type": "hardlink",
-        "prefix_placeholder": "/home/centos/anaconda3/conda-bld/ffmpeg_1530025872286/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_plac",
-        "sha256": "8ba5206dacb3d87662288507ee86ac95a58e05781989294b3e86c1e11b2fbdf0",
-        "size_in_bytes": 2775568
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg_1530032138387/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_p",
+        "sha256": "6ffed70fe11598917d66fa2f72b8d949ae21d7c23ab9f1868c305b80a2dbc5a6",
+        "size_in_bytes": 2775624
       },
       {
         "_path": "lib/pkgconfig/libavcodec.pc",
@@ -1951,8 +2460,8 @@
         "file_mode": "text",
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
-        "sha256": "87476088bf5e58d6a6a9c2e795201d8d7460b7ba41fc6884daf10a125f2bc0dd",
-        "size_in_bytes": 480
+        "sha256": "e2e110ffbe4f16801dc84051c22fe5daa5978d8cd79cdbd26d653e382a627401",
+        "size_in_bytes": 486
       },
       {
         "_path": "lib/pkgconfig/libavutil.pc",
@@ -1961,6 +2470,1115 @@
         "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
         "sha256": "7cd8d90e0b78df0be1529a827484a30bfd2bb492de50a4be97af6da685a2e3bf",
         "size_in_bytes": 351
+      },
+      {
+        "_path": "lib/pkgconfig/libpostproc.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "03f56f3978d3856afe40d06de9ec27361417f5466250869d217e81ad4f99f03f",
+        "size_in_bytes": 374
+      },
+      {
+        "_path": "lib/pkgconfig/libswresample.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "12be9940f183659ad5a8e078c0b8574bf19571f808cc9d5b130ecc85dd456907",
+        "size_in_bytes": 379
+      },
+      {
+        "_path": "lib/pkgconfig/libswscale.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "7bee29af61ac642c923fab75d930ee79e167e713165a49d9bd3d50c42d9e8f5e",
+        "size_in_bytes": 372
+      },
+      {
+        "_path": "share/ffmpeg/examples/Makefile",
+        "path_type": "hardlink",
+        "sha256": "4f35231be0faefbe9cdd1a0f8ca8052d70896329bec3906eb16ad000b6aff59d",
+        "size_in_bytes": 1970
+      },
+      {
+        "_path": "share/ffmpeg/examples/README",
+        "path_type": "hardlink",
+        "sha256": "b6de79fdcd6b18dd656dd2823b2a41c06c4553c329c9b53ed1751c455fa98d28",
+        "size_in_bytes": 888
+      },
+      {
+        "_path": "share/ffmpeg/examples/avio_dir_cmd.c",
+        "path_type": "hardlink",
+        "sha256": "0a2e6ae60e1dfc4a6ea6144f6c100cfaf67a2d5eb7c663c80df123f04ab8856a",
+        "size_in_bytes": 5551
+      },
+      {
+        "_path": "share/ffmpeg/examples/avio_reading.c",
+        "path_type": "hardlink",
+        "sha256": "ed85d662f7b9e86f743874df2f2dd9f1231e35aa8054e717baead837bf0b0f26",
+        "size_in_bytes": 4015
+      },
+      {
+        "_path": "share/ffmpeg/examples/decode_audio.c",
+        "path_type": "hardlink",
+        "sha256": "e6796487fde0a2467f65e346934726c9fa6620f4e8a83c712bd1654377621b9d",
+        "size_in_bytes": 5349
+      },
+      {
+        "_path": "share/ffmpeg/examples/decode_video.c",
+        "path_type": "hardlink",
+        "sha256": "1f35c6b16c9d66e5337283454b0f5cf5f0648369aac3e2d6bf4d80bd8f4d1b60",
+        "size_in_bytes": 5290
+      },
+      {
+        "_path": "share/ffmpeg/examples/demuxing_decoding.c",
+        "path_type": "hardlink",
+        "sha256": "d3773df68181b88160c8cce37d936e34cdd0e3ceb0fd893d6dca3184e69084ff",
+        "size_in_bytes": 14568
+      },
+      {
+        "_path": "share/ffmpeg/examples/encode_audio.c",
+        "path_type": "hardlink",
+        "sha256": "257dacf00621d852b8909859742faf0a8a02425e6f33c8ab7696bd093199026a",
+        "size_in_bytes": 6579
+      },
+      {
+        "_path": "share/ffmpeg/examples/encode_video.c",
+        "path_type": "hardlink",
+        "sha256": "4edaa7fa8bf1b0847ca4cb22e3a455bd966b01c808576d18069e0ff5f3ed451f",
+        "size_in_bytes": 5544
+      },
+      {
+        "_path": "share/ffmpeg/examples/extract_mvs.c",
+        "path_type": "hardlink",
+        "sha256": "125b08238a061d2d7fda50e163c1e669469b50d10da614f93b33367ea35475e0",
+        "size_in_bytes": 5641
+      },
+      {
+        "_path": "share/ffmpeg/examples/filter_audio.c",
+        "path_type": "hardlink",
+        "sha256": "0cd43f725892cc554900752285bcb8a9310b9ec4e98feab4f6fac57727912dcc",
+        "size_in_bytes": 11824
+      },
+      {
+        "_path": "share/ffmpeg/examples/filtering_audio.c",
+        "path_type": "hardlink",
+        "sha256": "7bb2801b385fdf3d593cdeef45cd0ebb5ae51882bc2dcb0af8fef91a2fac85e8",
+        "size_in_bytes": 10266
+      },
+      {
+        "_path": "share/ffmpeg/examples/filtering_video.c",
+        "path_type": "hardlink",
+        "sha256": "85db30b24cb883cf8c943699f3aaefc48c9d4c74b9ba898699be4a952a04e220",
+        "size_in_bytes": 9675
+      },
+      {
+        "_path": "share/ffmpeg/examples/http_multiclient.c",
+        "path_type": "hardlink",
+        "sha256": "155f41bd27a681eb77cc87c1128074407226345e2e253d9b51c9739a1f439d00",
+        "size_in_bytes": 5254
+      },
+      {
+        "_path": "share/ffmpeg/examples/hw_decode.c",
+        "path_type": "hardlink",
+        "sha256": "deb2c8efb429cfb91bfc0404c37c687cf52cd158279e91549ab7c13c2a95aaee",
+        "size_in_bytes": 7715
+      },
+      {
+        "_path": "share/ffmpeg/examples/metadata.c",
+        "path_type": "hardlink",
+        "sha256": "fd384f5af4b08b1bd3b525035eab118653ab24b11c16a94dc86b747186fd6a51",
+        "size_in_bytes": 1918
+      },
+      {
+        "_path": "share/ffmpeg/examples/muxing.c",
+        "path_type": "hardlink",
+        "sha256": "518b9ed0bfec55c89019b641db3c453639d1539dbb13ad408eef72f3018791e5",
+        "size_in_bytes": 21513
+      },
+      {
+        "_path": "share/ffmpeg/examples/qsvdec.c",
+        "path_type": "hardlink",
+        "sha256": "d44aecc1f08067f37474c8b6099ba30f96140d65872eb93b897df61a81723d15",
+        "size_in_bytes": 8239
+      },
+      {
+        "_path": "share/ffmpeg/examples/remuxing.c",
+        "path_type": "hardlink",
+        "sha256": "064d9db6d6c7cc5dff117b491a32f1db325edfeca8332e2381629e7689b5c93f",
+        "size_in_bytes": 6388
+      },
+      {
+        "_path": "share/ffmpeg/examples/resampling_audio.c",
+        "path_type": "hardlink",
+        "sha256": "56ba76e7313436fc6cd10c5eebb7523cb33d16c4bc8a256159c54650c9176cb1",
+        "size_in_bytes": 8005
+      },
+      {
+        "_path": "share/ffmpeg/examples/scaling_video.c",
+        "path_type": "hardlink",
+        "sha256": "ba562a7d9fc39dc93d7f224951d6e22339c8edf41deee10063c98da798098e9b",
+        "size_in_bytes": 5028
+      },
+      {
+        "_path": "share/ffmpeg/examples/transcode_aac.c",
+        "path_type": "hardlink",
+        "sha256": "ca11787ff7ed527e385a57e65beb985596682034013fe030d0138e1d3e79daa2",
+        "size_in_bytes": 34630
+      },
+      {
+        "_path": "share/ffmpeg/examples/transcoding.c",
+        "path_type": "hardlink",
+        "sha256": "a6e28b012a155ecc0c40ea0037efabcefcb0f7be9e9917e9eac1e3a3bf17c9cb",
+        "size_in_bytes": 22210
+      },
+      {
+        "_path": "share/ffmpeg/examples/vaapi_encode.c",
+        "path_type": "hardlink",
+        "sha256": "0ea184c2caa3019cb6b01b72fa03630375cebb567251c3460c911acad66d2803",
+        "size_in_bytes": 6713
+      },
+      {
+        "_path": "share/ffmpeg/examples/vaapi_transcode.c",
+        "path_type": "hardlink",
+        "sha256": "89ca96c310c06b7e5f240337d7720800b781b9e190b34d8c473494a2b9d15ec3",
+        "size_in_bytes": 9690
+      },
+      {
+        "_path": "share/ffmpeg/ffprobe.xsd",
+        "path_type": "hardlink",
+        "sha256": "ce2b3415d683efa6edb7bb9691a2103e9d2ad90603dc463c19e5f5719e63a6b9",
+        "size_in_bytes": 20608
+      },
+      {
+        "_path": "share/ffmpeg/libvpx-1080p.ffpreset",
+        "path_type": "hardlink",
+        "sha256": "cf0dca9d029e0aa29c242e5a7ecfb202a55ae41c1acdf5e2e59bf281a0136251",
+        "size_in_bytes": 227
+      },
+      {
+        "_path": "share/ffmpeg/libvpx-1080p50_60.ffpreset",
+        "path_type": "hardlink",
+        "sha256": "4d32bed9032caf8bf4ef8e4bcac427f482c6191396ef6b11f075a264da3a8def",
+        "size_in_bytes": 227
+      },
+      {
+        "_path": "share/ffmpeg/libvpx-360p.ffpreset",
+        "path_type": "hardlink",
+        "sha256": "c2ccd70a941c9b7003e364d7cc0296e8f3dea78cc3a87ccdcaae7c39a1a05b79",
+        "size_in_bytes": 219
+      },
+      {
+        "_path": "share/ffmpeg/libvpx-720p.ffpreset",
+        "path_type": "hardlink",
+        "sha256": "5bcac409c81ec0e11091801d5d1322b5ec6a9bb8617d7dda022acfea0d498d52",
+        "size_in_bytes": 227
+      },
+      {
+        "_path": "share/ffmpeg/libvpx-720p50_60.ffpreset",
+        "path_type": "hardlink",
+        "sha256": "b08a5ae448cb3cccd23faa6f42c8dbf61ead1a8381fce65636aa01a4a142cb8e",
+        "size_in_bytes": 227
+      }
+    ],
+    "paths_version": 1
+  },
+  "ffmpeg-cuda-4.0-0.tar.bz2": {
+    "paths": [
+      {
+        "_path": "bin/ffmpeg",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg-cuda_1530032454736/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "196a400b3c973467f3a58e282721a3a5dea92d1ada90a1152b99b110b4435c3b",
+        "size_in_bytes": 1010680
+      },
+      {
+        "_path": "bin/ffprobe",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg-cuda_1530032454736/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "75dac88184f3815c4e63e821040744c11495453190ca47af8302137f5e91a9a0",
+        "size_in_bytes": 616848
+      },
+      {
+        "_path": "include/libavcodec/ac3_parser.h",
+        "path_type": "hardlink",
+        "sha256": "200c6d2e96975196e8ba5f5716223dc9dda999d51578dabce2fca93175a05252",
+        "size_in_bytes": 1207
+      },
+      {
+        "_path": "include/libavcodec/adts_parser.h",
+        "path_type": "hardlink",
+        "sha256": "d466583a8dc1260b015e588adbe3abd45f3f8ca0e43722f3088b472e80492a15",
+        "size_in_bytes": 1354
+      },
+      {
+        "_path": "include/libavcodec/avcodec.h",
+        "path_type": "hardlink",
+        "sha256": "55d660bb6439bcd6ddbe73de5bcf61dc5525e64ecac94aeb43d65cb7e299f9ea",
+        "size_in_bytes": 211684
+      },
+      {
+        "_path": "include/libavcodec/avdct.h",
+        "path_type": "hardlink",
+        "sha256": "ee04219cc725dd8ae4440080fbddd8becf5d095b22cd98ad8476a0715e3f555e",
+        "size_in_bytes": 2570
+      },
+      {
+        "_path": "include/libavcodec/avfft.h",
+        "path_type": "hardlink",
+        "sha256": "a0918d3d682f40bd65bbdc60ad0cdca08675a0067cd3e92581342b045fb0cc78",
+        "size_in_bytes": 3111
+      },
+      {
+        "_path": "include/libavcodec/d3d11va.h",
+        "path_type": "hardlink",
+        "sha256": "74a55a2e3f19ce797e99624a224302f25efa89a115b9bf2e932c8fa179b0cc66",
+        "size_in_bytes": 2853
+      },
+      {
+        "_path": "include/libavcodec/dirac.h",
+        "path_type": "hardlink",
+        "sha256": "b248987f650dd7a110c942ad67351dc920e115248c54532b29381c4c64be9905",
+        "size_in_bytes": 4044
+      },
+      {
+        "_path": "include/libavcodec/dv_profile.h",
+        "path_type": "hardlink",
+        "sha256": "efedccc613db41c8d5a68bf9c1b81ab8b0e13137ac85f5f7e75f0a08381fea75",
+        "size_in_bytes": 3715
+      },
+      {
+        "_path": "include/libavcodec/dxva2.h",
+        "path_type": "hardlink",
+        "sha256": "e69dc45a7d5a9206b3bfead10caf3117117005cd532c4fc599d9976637c1b9e3",
+        "size_in_bytes": 2361
+      },
+      {
+        "_path": "include/libavcodec/jni.h",
+        "path_type": "hardlink",
+        "sha256": "18ca8eae5bce081b4eef1b1f61a62aefed1d4e6e3cde41487c81fb96ee709e51",
+        "size_in_bytes": 1650
+      },
+      {
+        "_path": "include/libavcodec/mediacodec.h",
+        "path_type": "hardlink",
+        "sha256": "df552a2314760d43025c9307883dbe7676d54c975637c93fda11ccd4c2f545c3",
+        "size_in_bytes": 2825
+      },
+      {
+        "_path": "include/libavcodec/qsv.h",
+        "path_type": "hardlink",
+        "sha256": "0a21a0e4770ce91802c3dea5623c2a4858e1480e664df51e2b1af0db829bff2f",
+        "size_in_bytes": 3763
+      },
+      {
+        "_path": "include/libavcodec/vaapi.h",
+        "path_type": "hardlink",
+        "sha256": "17dc7116c4a79f1925457917e5b47ccf2ce546c47357241f77155fe25caebacf",
+        "size_in_bytes": 2297
+      },
+      {
+        "_path": "include/libavcodec/vdpau.h",
+        "path_type": "hardlink",
+        "sha256": "406d626f19911d6c4bef4afc77c469e49369b05ea0f87dbcf49fb3034400494e",
+        "size_in_bytes": 5796
+      },
+      {
+        "_path": "include/libavcodec/version.h",
+        "path_type": "hardlink",
+        "sha256": "8ff8a9d9ed962285fd49a5b4fbfac7144378fd07a85519b6cfa066c8129b1115",
+        "size_in_bytes": 4785
+      },
+      {
+        "_path": "include/libavcodec/videotoolbox.h",
+        "path_type": "hardlink",
+        "sha256": "3545b1add1d97a99f3646f3e07baa76b59ec0b6abb6a7db1b190472161ca25e6",
+        "size_in_bytes": 4029
+      },
+      {
+        "_path": "include/libavcodec/vorbis_parser.h",
+        "path_type": "hardlink",
+        "sha256": "57077b2e1d28d42636cab0f69e4b92b1ad64ac2eaa2843c270a6afaf308a76ae",
+        "size_in_bytes": 2285
+      },
+      {
+        "_path": "include/libavcodec/xvmc.h",
+        "path_type": "hardlink",
+        "sha256": "51987ad98b125aedc395360fa29b8f4f7029e8d98abe9999def9f5216f8bc2a9",
+        "size_in_bytes": 6062
+      },
+      {
+        "_path": "include/libavdevice/avdevice.h",
+        "path_type": "hardlink",
+        "sha256": "da68bd84322575ba8cf2800a0c26e031e74ede44c07922fa3cb7ec745a33079c",
+        "size_in_bytes": 17918
+      },
+      {
+        "_path": "include/libavdevice/version.h",
+        "path_type": "hardlink",
+        "sha256": "f733a33d92aa1028a33cd4ee0c9e723637cff6b27eb56962d183d93877a82955",
+        "size_in_bytes": 1861
+      },
+      {
+        "_path": "include/libavfilter/avfilter.h",
+        "path_type": "hardlink",
+        "sha256": "9d4b4f84edbe814312c2e8a7a647bbf33d159814fbf0ca100cca280e2375682f",
+        "size_in_bytes": 42263
+      },
+      {
+        "_path": "include/libavfilter/buffersink.h",
+        "path_type": "hardlink",
+        "sha256": "c130bb6ef43017f6675aeaba52a4a54f46012708dae901b7d7e8ba8dd31f76bc",
+        "size_in_bytes": 6316
+      },
+      {
+        "_path": "include/libavfilter/buffersrc.h",
+        "path_type": "hardlink",
+        "sha256": "533161432a3414ee359e8740fec73c9730be92d9302cabc6266260c0cedc1c20",
+        "size_in_bytes": 6608
+      },
+      {
+        "_path": "include/libavfilter/version.h",
+        "path_type": "hardlink",
+        "sha256": "d76f60c6e02ed6dbb20745bc4b2c63a3a870b61f383c5dce46aa44e89982fe8b",
+        "size_in_bytes": 2334
+      },
+      {
+        "_path": "include/libavformat/avformat.h",
+        "path_type": "hardlink",
+        "sha256": "e2f77f4f864d9247267df12c7ccfe92910899939281486a086fcc47e9b89e04b",
+        "size_in_bytes": 117558
+      },
+      {
+        "_path": "include/libavformat/avio.h",
+        "path_type": "hardlink",
+        "sha256": "60ec540459896c12e6512e573fa1a033533d9c7fd3af59dcd08ab76b5c79c6de",
+        "size_in_bytes": 31557
+      },
+      {
+        "_path": "include/libavformat/version.h",
+        "path_type": "hardlink",
+        "sha256": "03532f2fecfc9fa0169e589c540c909b913e765746c1c4c284c52fcd74c1ad5d",
+        "size_in_bytes": 3781
+      },
+      {
+        "_path": "include/libavutil/adler32.h",
+        "path_type": "hardlink",
+        "sha256": "2e1fe97266ac1fe84693f2a837f57e48fcf0582d242f13d7034d4443e9eccfca",
+        "size_in_bytes": 1673
+      },
+      {
+        "_path": "include/libavutil/aes.h",
+        "path_type": "hardlink",
+        "sha256": "36644cefd472da0aa2f88871ded8949ec91eb4ec252fd7d25e5d94c4db229139",
+        "size_in_bytes": 1834
+      },
+      {
+        "_path": "include/libavutil/aes_ctr.h",
+        "path_type": "hardlink",
+        "sha256": "3687d7cc50d48d3c74c7bd4cdb4ea89b5d947fdb9d5e66e7eacef656a41cec3a",
+        "size_in_bytes": 2269
+      },
+      {
+        "_path": "include/libavutil/attributes.h",
+        "path_type": "hardlink",
+        "sha256": "d695c5661adf0b5018bd9a7e59f7f1b839318beed656b0930f10cee7360a509a",
+        "size_in_bytes": 4714
+      },
+      {
+        "_path": "include/libavutil/audio_fifo.h",
+        "path_type": "hardlink",
+        "sha256": "a11be7a6e84da1f82e2c771faffe4d20ba79d11299ee32fe8667d005c305dd2e",
+        "size_in_bytes": 5914
+      },
+      {
+        "_path": "include/libavutil/avassert.h",
+        "path_type": "hardlink",
+        "sha256": "4ed7ccf61ae919591dec69f94fa31d84d1aa53a9a9cea1a905e3a2d52899dc88",
+        "size_in_bytes": 2355
+      },
+      {
+        "_path": "include/libavutil/avconfig.h",
+        "path_type": "hardlink",
+        "sha256": "975611ad5eba15212d9e1d5fca9d4fdf0daec6d2269b2fcab8e29af8667164bc",
+        "size_in_bytes": 180
+      },
+      {
+        "_path": "include/libavutil/avstring.h",
+        "path_type": "hardlink",
+        "sha256": "c6a991137ebfe62dc1781b0015716deb18b4ba0467ff7e6d8d39a9fc29db5294",
+        "size_in_bytes": 14095
+      },
+      {
+        "_path": "include/libavutil/avutil.h",
+        "path_type": "hardlink",
+        "sha256": "5d868e4d3340fccd511662b67eb4e28febd23e4eb28466d57a7e277228d53baf",
+        "size_in_bytes": 9576
+      },
+      {
+        "_path": "include/libavutil/base64.h",
+        "path_type": "hardlink",
+        "sha256": "81ac13d23f3744fe85ea2651ce903e201cd55fc63fcdd899d2cfe5560d50ef3d",
+        "size_in_bytes": 2285
+      },
+      {
+        "_path": "include/libavutil/blowfish.h",
+        "path_type": "hardlink",
+        "sha256": "b955a63c60c8b3be0203ec6c3973f9084d848cf884fe56cd56088301aeef7992",
+        "size_in_bytes": 2394
+      },
+      {
+        "_path": "include/libavutil/bprint.h",
+        "path_type": "hardlink",
+        "sha256": "c4040dabbc4310b612834e6884f73119850704431a320e9b157275fca99b7066",
+        "size_in_bytes": 7797
+      },
+      {
+        "_path": "include/libavutil/bswap.h",
+        "path_type": "hardlink",
+        "sha256": "7d6432122fcb3a261f037a4323738301a5a6b50ebe80940749a9c9704a56bc3c",
+        "size_in_bytes": 2858
+      },
+      {
+        "_path": "include/libavutil/buffer.h",
+        "path_type": "hardlink",
+        "sha256": "f3cae86c0fea1fa0e037fecebd9acd998bedcb19bead1eb7df6da64d4b2aa689",
+        "size_in_bytes": 10646
+      },
+      {
+        "_path": "include/libavutil/camellia.h",
+        "path_type": "hardlink",
+        "sha256": "78e8569378757df3f33b5217b2b3bcace1abd970e56e97fa9855e22c86a13822",
+        "size_in_bytes": 2139
+      },
+      {
+        "_path": "include/libavutil/cast5.h",
+        "path_type": "hardlink",
+        "sha256": "05b2e13aecaa0adbb470081a689f45baffb8e03a71997c31f37a22ea4e383a60",
+        "size_in_bytes": 2561
+      },
+      {
+        "_path": "include/libavutil/channel_layout.h",
+        "path_type": "hardlink",
+        "sha256": "dbd46ceb8bf6a74f41fb3ea21b064c808e6f4572467c99310111915d1b34b570",
+        "size_in_bytes": 9613
+      },
+      {
+        "_path": "include/libavutil/common.h",
+        "path_type": "hardlink",
+        "sha256": "b5fc1c35f4ca3f4f52087d6c468ea922e87f09cfe1766e6605a81094a095a69a",
+        "size_in_bytes": 16541
+      },
+      {
+        "_path": "include/libavutil/cpu.h",
+        "path_type": "hardlink",
+        "sha256": "568994c2574ad6a8a9322eca98034c8a64cf3e3d0f1ed94b77d792060eea01db",
+        "size_in_bytes": 5682
+      },
+      {
+        "_path": "include/libavutil/crc.h",
+        "path_type": "hardlink",
+        "sha256": "8c9d577abb491f244c1f2c2d46b5bb25a216ea4b3826f2b3d727f956edf0a155",
+        "size_in_bytes": 3137
+      },
+      {
+        "_path": "include/libavutil/des.h",
+        "path_type": "hardlink",
+        "sha256": "aff467bd102466db2f73ba2fa9c652a02b7c80daa5d7906c8dfa2dee9448d469",
+        "size_in_bytes": 2333
+      },
+      {
+        "_path": "include/libavutil/dict.h",
+        "path_type": "hardlink",
+        "sha256": "b8f3d9d4f4e59c77fede23eef817e5821608151f86cd8dfffb4b81c877d973c8",
+        "size_in_bytes": 8275
+      },
+      {
+        "_path": "include/libavutil/display.h",
+        "path_type": "hardlink",
+        "sha256": "c1f7f1151190de1e96fe998e245aae498e8f776f658ac3e566b24fc56de43866",
+        "size_in_bytes": 3527
+      },
+      {
+        "_path": "include/libavutil/downmix_info.h",
+        "path_type": "hardlink",
+        "sha256": "2fc23ad8f0750d82fcd6aa3b653998e2ea9721f9d1664df7b6cb80e93d7fa3aa",
+        "size_in_bytes": 3235
+      },
+      {
+        "_path": "include/libavutil/encryption_info.h",
+        "path_type": "hardlink",
+        "sha256": "a016624f9296df5e3d9e2e2e143aa31a1c583c6dac95779d3727d6aa06bf28f2",
+        "size_in_bytes": 6906
+      },
+      {
+        "_path": "include/libavutil/error.h",
+        "path_type": "hardlink",
+        "sha256": "cd530a990c8949e867f05e08e4de07c2df170d435707a73679fe5fe53bb3389e",
+        "size_in_bytes": 5468
+      },
+      {
+        "_path": "include/libavutil/eval.h",
+        "path_type": "hardlink",
+        "sha256": "8680c2f0b30e0603a5bab4357984df9b51d182ac17d900d65a719023e14617f7",
+        "size_in_bytes": 5302
+      },
+      {
+        "_path": "include/libavutil/ffversion.h",
+        "path_type": "hardlink",
+        "sha256": "0fdbce6d401cc1fc266aba9d5849e55c5247fb1e671e183fa469ba4a518bd5f5",
+        "size_in_bytes": 182
+      },
+      {
+        "_path": "include/libavutil/fifo.h",
+        "path_type": "hardlink",
+        "sha256": "d8837e2675b3e4380e60857e94150713e612ea34f3da1868515d7449f05f1fbc",
+        "size_in_bytes": 5899
+      },
+      {
+        "_path": "include/libavutil/file.h",
+        "path_type": "hardlink",
+        "sha256": "5ad4f631f60e7e3f0b08f5f0d4d60b0f27cd1133091a7a1fc576ea758f355bde",
+        "size_in_bytes": 2565
+      },
+      {
+        "_path": "include/libavutil/frame.h",
+        "path_type": "hardlink",
+        "sha256": "3129d5b3d8e5531739ac57010ca7f695693447e31757b1ece6790b2981b9ca3f",
+        "size_in_bytes": 28932
+      },
+      {
+        "_path": "include/libavutil/hash.h",
+        "path_type": "hardlink",
+        "sha256": "22973e98797c24e281827b0671300a54676134873a096d1a0cc6dcbcf778d44d",
+        "size_in_bytes": 8574
+      },
+      {
+        "_path": "include/libavutil/hmac.h",
+        "path_type": "hardlink",
+        "sha256": "47dcbfb72349596901070b2ed57facf1e02efd9fc91e8633f93a392ede671e2e",
+        "size_in_bytes": 2886
+      },
+      {
+        "_path": "include/libavutil/hwcontext.h",
+        "path_type": "hardlink",
+        "sha256": "a1c8aeddd7bfb3381f6fc417ce4e1d4419f36f876fcdf25233daf60573d54210",
+        "size_in_bytes": 23027
+      },
+      {
+        "_path": "include/libavutil/hwcontext_cuda.h",
+        "path_type": "hardlink",
+        "sha256": "ce09efe33ef2684b2112bd076e41749a6a2c890fdb150a15d33a48aada0d18ef",
+        "size_in_bytes": 1461
+      },
+      {
+        "_path": "include/libavutil/hwcontext_d3d11va.h",
+        "path_type": "hardlink",
+        "sha256": "71b43c95ec6ef2eabe6858d7cef5f7e734e551b045fe6b0d7e1717499e15bec2",
+        "size_in_bytes": 6225
+      },
+      {
+        "_path": "include/libavutil/hwcontext_drm.h",
+        "path_type": "hardlink",
+        "sha256": "b598f37f40cf1342f923c0b97784a6f2830b543868eccee046375e096fbd5f24",
+        "size_in_bytes": 4673
+      },
+      {
+        "_path": "include/libavutil/hwcontext_dxva2.h",
+        "path_type": "hardlink",
+        "sha256": "73a0333b65e99675834dcb1b63a5e9339638ccc619f1a2fcba85cdd0e179ade0",
+        "size_in_bytes": 2411
+      },
+      {
+        "_path": "include/libavutil/hwcontext_mediacodec.h",
+        "path_type": "hardlink",
+        "sha256": "782ffc4acb547481295419cec98e036290f555483ec374972db129299c9ecec3",
+        "size_in_bytes": 1203
+      },
+      {
+        "_path": "include/libavutil/hwcontext_qsv.h",
+        "path_type": "hardlink",
+        "sha256": "28c54c9ddb4bd8e8c47b11b1f44dffde40eac604b2b6ec6f1448f7d298780878",
+        "size_in_bytes": 1557
+      },
+      {
+        "_path": "include/libavutil/hwcontext_vaapi.h",
+        "path_type": "hardlink",
+        "sha256": "6f6c6a5250dd0f901cdc7de8b9b3db26102719b7e056cd17500009096bfd9b39",
+        "size_in_bytes": 3787
+      },
+      {
+        "_path": "include/libavutil/hwcontext_vdpau.h",
+        "path_type": "hardlink",
+        "sha256": "6c96373d9e5deb2c500004f3f55ee1d2cea0f76cdfaeabaf5a3ad3e4938e8252",
+        "size_in_bytes": 1360
+      },
+      {
+        "_path": "include/libavutil/hwcontext_videotoolbox.h",
+        "path_type": "hardlink",
+        "sha256": "60f6c7cbfe5c74da0a89b164c0b2b0b91f39d2bfdf949714e9591cb9488617f4",
+        "size_in_bytes": 1883
+      },
+      {
+        "_path": "include/libavutil/imgutils.h",
+        "path_type": "hardlink",
+        "sha256": "0d2ddf88e72b4f6f2aa880399faf495e3789f64a3d1e81273d73fd146e5118aa",
+        "size_in_bytes": 11530
+      },
+      {
+        "_path": "include/libavutil/intfloat.h",
+        "path_type": "hardlink",
+        "sha256": "3a29e4eebc8c269cfd867b96de91d8231773d392c12a8820e46eaba96d2b4ca1",
+        "size_in_bytes": 1726
+      },
+      {
+        "_path": "include/libavutil/intreadwrite.h",
+        "path_type": "hardlink",
+        "sha256": "d711e77a19d37f9d0c23c1f644b9426d379b3b414ca96dbb9a923569acabdacd",
+        "size_in_bytes": 18398
+      },
+      {
+        "_path": "include/libavutil/lfg.h",
+        "path_type": "hardlink",
+        "sha256": "77a1014915cf158835150bd71d5a78c78c673bec609be90f48519b0cd077255c",
+        "size_in_bytes": 2215
+      },
+      {
+        "_path": "include/libavutil/log.h",
+        "path_type": "hardlink",
+        "sha256": "238d18ca7c46c84b0977bc67283c9ba2b034f8f6f20c2110fcd1e0a5c1d97d08",
+        "size_in_bytes": 11315
+      },
+      {
+        "_path": "include/libavutil/lzo.h",
+        "path_type": "hardlink",
+        "sha256": "61e89928dee9d83030adececac06aa6c1ae2aada06c5682fde52c52015c53556",
+        "size_in_bytes": 2048
+      },
+      {
+        "_path": "include/libavutil/macros.h",
+        "path_type": "hardlink",
+        "sha256": "7fd8514cbe4b6ef025b0f5cc3b752e2c3940e22f4945cf6e6372653b6e3d2bca",
+        "size_in_bytes": 1249
+      },
+      {
+        "_path": "include/libavutil/mastering_display_metadata.h",
+        "path_type": "hardlink",
+        "sha256": "9d5743a42306ac0158e26248a1281ae8be9ebfeb02e67f14e0e6ae770a543a65",
+        "size_in_bytes": 3944
+      },
+      {
+        "_path": "include/libavutil/mathematics.h",
+        "path_type": "hardlink",
+        "sha256": "a4cd34f7c19d82c4e58349f0c4987f5b3829dad15755f4eca166b492506cd37c",
+        "size_in_bytes": 7945
+      },
+      {
+        "_path": "include/libavutil/md5.h",
+        "path_type": "hardlink",
+        "sha256": "435edd1b3c07f8afb9f73c0a80b362a8cf439049ae3aba55b106edb055aac10d",
+        "size_in_bytes": 2323
+      },
+      {
+        "_path": "include/libavutil/mem.h",
+        "path_type": "hardlink",
+        "sha256": "d113db71707d0c7750f642ce5f1d6500b46ccb22d63e179597a0125e2ad77a66",
+        "size_in_bytes": 23597
+      },
+      {
+        "_path": "include/libavutil/motion_vector.h",
+        "path_type": "hardlink",
+        "sha256": "dc0b0a15a638c8b91df95a418c5951ee5e787d518f22b6e3d70094922536e8bb",
+        "size_in_bytes": 1770
+      },
+      {
+        "_path": "include/libavutil/murmur3.h",
+        "path_type": "hardlink",
+        "sha256": "412eade9534f79127b104385f2941d0c0dc1c609b05624599742ecdaf16bbe64",
+        "size_in_bytes": 3621
+      },
+      {
+        "_path": "include/libavutil/opt.h",
+        "path_type": "hardlink",
+        "sha256": "ace5481fda4cfda90a61a1c8e4f27e59c1fa970c77ecb1824a0d8abc2edc0165",
+        "size_in_bytes": 35827
+      },
+      {
+        "_path": "include/libavutil/parseutils.h",
+        "path_type": "hardlink",
+        "sha256": "dafb4321ecbd52930d3900d8d22b2d1714b0375622aeea4acfdf8a0a4b6ee03b",
+        "size_in_bytes": 7575
+      },
+      {
+        "_path": "include/libavutil/pixdesc.h",
+        "path_type": "hardlink",
+        "sha256": "0fe26c851b4c92775a77dd7092c091ce31aa679c7646f064854cdd8a74a59977",
+        "size_in_bytes": 15830
+      },
+      {
+        "_path": "include/libavutil/pixelutils.h",
+        "path_type": "hardlink",
+        "sha256": "c011fc734af1dc54ee933456b15f84ecee65cfe1a24ee16f90b41e4ed98e55c1",
+        "size_in_bytes": 2071
+      },
+      {
+        "_path": "include/libavutil/pixfmt.h",
+        "path_type": "hardlink",
+        "sha256": "077705aa6c617f215e4a4b0fb2f75b37a477457da80d6915484920747c935e70",
+        "size_in_bytes": 32761
+      },
+      {
+        "_path": "include/libavutil/random_seed.h",
+        "path_type": "hardlink",
+        "sha256": "78b238cd2dacd863879052ca3b1405c314aab220f63b076602f10bf321974ac5",
+        "size_in_bytes": 1400
+      },
+      {
+        "_path": "include/libavutil/rational.h",
+        "path_type": "hardlink",
+        "sha256": "8c4ce57974b97c4160d7552c14b2c23fcc6f4c1321281c1e8e33beb6e2276276",
+        "size_in_bytes": 5844
+      },
+      {
+        "_path": "include/libavutil/rc4.h",
+        "path_type": "hardlink",
+        "sha256": "74610fdb46f20ba5dac1edd1da2f2d6d837ac4c5746aa9efb16c9c147f39ffe8",
+        "size_in_bytes": 1882
+      },
+      {
+        "_path": "include/libavutil/replaygain.h",
+        "path_type": "hardlink",
+        "sha256": "4ec82edbdc4e5493fba3cae6a27566f0f15d1399ccf16e25073ffd50ba8187ea",
+        "size_in_bytes": 1607
+      },
+      {
+        "_path": "include/libavutil/ripemd.h",
+        "path_type": "hardlink",
+        "sha256": "5aaabbbb3a38b615ab892e10d7edd872cf755bf08ca270607add98a42752c337",
+        "size_in_bytes": 2285
+      },
+      {
+        "_path": "include/libavutil/samplefmt.h",
+        "path_type": "hardlink",
+        "sha256": "e92c47e4aedb439ccb630e46e80ef884c848ca2b7baeb64b1050802312751e0d",
+        "size_in_bytes": 10318
+      },
+      {
+        "_path": "include/libavutil/sha.h",
+        "path_type": "hardlink",
+        "sha256": "7ae6876df76d49be52b7257a6bcc03406bb44946a302588774ce11aed25b3bff",
+        "size_in_bytes": 2505
+      },
+      {
+        "_path": "include/libavutil/sha512.h",
+        "path_type": "hardlink",
+        "sha256": "1f3c46f73d81df4bf5724c0892cf8ef9bbfe93a408c5719c14f044c59744e7e9",
+        "size_in_bytes": 2560
+      },
+      {
+        "_path": "include/libavutil/spherical.h",
+        "path_type": "hardlink",
+        "sha256": "e8e02f113e48665bbe3fd610617b4ac0dc945fffca78d50fa81bd22e725e5576",
+        "size_in_bytes": 8024
+      },
+      {
+        "_path": "include/libavutil/stereo3d.h",
+        "path_type": "hardlink",
+        "sha256": "1b841852957b05963deefaee454c5adef1a58e049bbca3cce4888dc3c09b7359",
+        "size_in_bytes": 5250
+      },
+      {
+        "_path": "include/libavutil/tea.h",
+        "path_type": "hardlink",
+        "sha256": "3c1e93c566630bb4eeedad3ef3c8719bd6050081ac1c764b1fde81aba4969076",
+        "size_in_bytes": 2035
+      },
+      {
+        "_path": "include/libavutil/threadmessage.h",
+        "path_type": "hardlink",
+        "sha256": "e4d25438f0518c1cefb269c82eba23ed634ef6aac2c723d1c0ca1a0d2417dfcd",
+        "size_in_bytes": 3666
+      },
+      {
+        "_path": "include/libavutil/time.h",
+        "path_type": "hardlink",
+        "sha256": "40e11fa242e0585996753affb054443e78be25919b7c3063042d0aaff1656760",
+        "size_in_bytes": 1800
+      },
+      {
+        "_path": "include/libavutil/timecode.h",
+        "path_type": "hardlink",
+        "sha256": "b3a67f8f052a7a29f4fd2fd9623e5d3e632d556bc515f5c2b99efdfc2e86ec9b",
+        "size_in_bytes": 5325
+      },
+      {
+        "_path": "include/libavutil/timestamp.h",
+        "path_type": "hardlink",
+        "sha256": "c4753df37c8b0e63e99042007d5836b954ce825913642c57cc7c58b4a52d0273",
+        "size_in_bytes": 2617
+      },
+      {
+        "_path": "include/libavutil/tree.h",
+        "path_type": "hardlink",
+        "sha256": "fb371063da19c9052aba46b24ac62b1b9dfaed7911bf7408d3ae6916a6e9dbc4",
+        "size_in_bytes": 5429
+      },
+      {
+        "_path": "include/libavutil/twofish.h",
+        "path_type": "hardlink",
+        "sha256": "f6823a45af3a076bcf3f3f3361f1fa6b7aa0ee85a75ca0e8480b9b27b4532189",
+        "size_in_bytes": 2245
+      },
+      {
+        "_path": "include/libavutil/version.h",
+        "path_type": "hardlink",
+        "sha256": "ea4535da051ba24517578e7504849417e9061e640c22e80cea19d560c6d6a7b6",
+        "size_in_bytes": 4669
+      },
+      {
+        "_path": "include/libavutil/xtea.h",
+        "path_type": "hardlink",
+        "sha256": "2eb91f780cc4ad86095e4ebbce453475d40f4e9b8737d52bdf20a068dfafcdf0",
+        "size_in_bytes": 2834
+      },
+      {
+        "_path": "include/libpostproc/postprocess.h",
+        "path_type": "hardlink",
+        "sha256": "ec163d6a1de0e9fb8083e01a1ad760514a9948cdbe9a9289b5525ba0aaaca9a4",
+        "size_in_bytes": 2936
+      },
+      {
+        "_path": "include/libpostproc/version.h",
+        "path_type": "hardlink",
+        "sha256": "0693766f661c8db06e070f87bb7e7f28f2c2ad05ed86c013c49318fcbd93b2b2",
+        "size_in_bytes": 1642
+      },
+      {
+        "_path": "include/libswresample/swresample.h",
+        "path_type": "hardlink",
+        "sha256": "50e101a21eb6854cdcda08a39afb7f97f5780445753fd8e7260a08e0ef96b138",
+        "size_in_bytes": 21785
+      },
+      {
+        "_path": "include/libswresample/version.h",
+        "path_type": "hardlink",
+        "sha256": "ebd47db0734d104e573352b4d7f902e05154cb6ed421a2f9a85f4c3a36082f86",
+        "size_in_bytes": 1718
+      },
+      {
+        "_path": "include/libswscale/swscale.h",
+        "path_type": "hardlink",
+        "sha256": "10edc3471a22d9395d1f496689436b516572ad373fa13c24511e4a8019aa2188",
+        "size_in_bytes": 12015
+      },
+      {
+        "_path": "include/libswscale/version.h",
+        "path_type": "hardlink",
+        "sha256": "fe2bf2cc04cc01ba43371c1c59a2390383fb776584dde56c7ad17b9286e7a283",
+        "size_in_bytes": 1927
+      },
+      {
+        "_path": "lib/libavcodec.so",
+        "path_type": "softlink",
+        "sha256": "52711ee95f3f1ed1933e580a4890ccccbc2b31e731003bd4a6a562286caa9bad",
+        "size_in_bytes": 66994520
+      },
+      {
+        "_path": "lib/libavcodec.so.58",
+        "path_type": "softlink",
+        "sha256": "52711ee95f3f1ed1933e580a4890ccccbc2b31e731003bd4a6a562286caa9bad",
+        "size_in_bytes": 66994520
+      },
+      {
+        "_path": "lib/libavcodec.so.58.18.100",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg-cuda_1530032454736/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "52711ee95f3f1ed1933e580a4890ccccbc2b31e731003bd4a6a562286caa9bad",
+        "size_in_bytes": 66994520
+      },
+      {
+        "_path": "lib/libavdevice.so",
+        "path_type": "softlink",
+        "sha256": "a1e872971b3b4f3c0a21d09a9352b0465b828463e6838cdfe3fddd0cc3bf2baa",
+        "size_in_bytes": 465840
+      },
+      {
+        "_path": "lib/libavdevice.so.58",
+        "path_type": "softlink",
+        "sha256": "a1e872971b3b4f3c0a21d09a9352b0465b828463e6838cdfe3fddd0cc3bf2baa",
+        "size_in_bytes": 465840
+      },
+      {
+        "_path": "lib/libavdevice.so.58.3.100",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg-cuda_1530032454736/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "a1e872971b3b4f3c0a21d09a9352b0465b828463e6838cdfe3fddd0cc3bf2baa",
+        "size_in_bytes": 465840
+      },
+      {
+        "_path": "lib/libavfilter.so",
+        "path_type": "softlink",
+        "sha256": "a31034db2e378e6420189f4af91cbd80f34cdeeee3cdceae25620c19b47bcbef",
+        "size_in_bytes": 11594856
+      },
+      {
+        "_path": "lib/libavfilter.so.7",
+        "path_type": "softlink",
+        "sha256": "a31034db2e378e6420189f4af91cbd80f34cdeeee3cdceae25620c19b47bcbef",
+        "size_in_bytes": 11594856
+      },
+      {
+        "_path": "lib/libavfilter.so.7.16.100",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg-cuda_1530032454736/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "a31034db2e378e6420189f4af91cbd80f34cdeeee3cdceae25620c19b47bcbef",
+        "size_in_bytes": 11594856
+      },
+      {
+        "_path": "lib/libavformat.so",
+        "path_type": "softlink",
+        "sha256": "751806717d04fcae5153f5f234328f95412181e4f680c4f9d09d5f21f95431ef",
+        "size_in_bytes": 18523656
+      },
+      {
+        "_path": "lib/libavformat.so.58",
+        "path_type": "softlink",
+        "sha256": "751806717d04fcae5153f5f234328f95412181e4f680c4f9d09d5f21f95431ef",
+        "size_in_bytes": 18523656
+      },
+      {
+        "_path": "lib/libavformat.so.58.12.100",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg-cuda_1530032454736/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "751806717d04fcae5153f5f234328f95412181e4f680c4f9d09d5f21f95431ef",
+        "size_in_bytes": 18523656
+      },
+      {
+        "_path": "lib/libavutil.so",
+        "path_type": "softlink",
+        "sha256": "e3d535fc532d0f3c7c205737863d589bc18893fcf98dd25db37f25924e705a73",
+        "size_in_bytes": 1597408
+      },
+      {
+        "_path": "lib/libavutil.so.56",
+        "path_type": "softlink",
+        "sha256": "e3d535fc532d0f3c7c205737863d589bc18893fcf98dd25db37f25924e705a73",
+        "size_in_bytes": 1597408
+      },
+      {
+        "_path": "lib/libavutil.so.56.14.100",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg-cuda_1530032454736/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "e3d535fc532d0f3c7c205737863d589bc18893fcf98dd25db37f25924e705a73",
+        "size_in_bytes": 1597408
+      },
+      {
+        "_path": "lib/libpostproc.so",
+        "path_type": "softlink",
+        "sha256": "a6a83c4422d293591292474de0c5f478d226745dc05dd31a330806331a4747c5",
+        "size_in_bytes": 394472
+      },
+      {
+        "_path": "lib/libpostproc.so.55",
+        "path_type": "softlink",
+        "sha256": "a6a83c4422d293591292474de0c5f478d226745dc05dd31a330806331a4747c5",
+        "size_in_bytes": 394472
+      },
+      {
+        "_path": "lib/libpostproc.so.55.1.100",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg-cuda_1530032454736/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "a6a83c4422d293591292474de0c5f478d226745dc05dd31a330806331a4747c5",
+        "size_in_bytes": 394472
+      },
+      {
+        "_path": "lib/libswresample.so",
+        "path_type": "softlink",
+        "sha256": "324b09bce0420d18fac799b86830d0621b2504e0c024c197fcd73d600e91aaf1",
+        "size_in_bytes": 375496
+      },
+      {
+        "_path": "lib/libswresample.so.3",
+        "path_type": "softlink",
+        "sha256": "324b09bce0420d18fac799b86830d0621b2504e0c024c197fcd73d600e91aaf1",
+        "size_in_bytes": 375496
+      },
+      {
+        "_path": "lib/libswresample.so.3.1.100",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg-cuda_1530032454736/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "324b09bce0420d18fac799b86830d0621b2504e0c024c197fcd73d600e91aaf1",
+        "size_in_bytes": 375496
+      },
+      {
+        "_path": "lib/libswscale.so",
+        "path_type": "softlink",
+        "sha256": "8cb41a979b4ec8ef9f9ad7a44d520a9f52717749f1049d51bf388dc6f42a8142",
+        "size_in_bytes": 2775720
+      },
+      {
+        "_path": "lib/libswscale.so.5",
+        "path_type": "softlink",
+        "sha256": "8cb41a979b4ec8ef9f9ad7a44d520a9f52717749f1049d51bf388dc6f42a8142",
+        "size_in_bytes": 2775720
+      },
+      {
+        "_path": "lib/libswscale.so.5.1.100",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/ffmpeg-cuda_1530032454736/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placeh",
+        "sha256": "8cb41a979b4ec8ef9f9ad7a44d520a9f52717749f1049d51bf388dc6f42a8142",
+        "size_in_bytes": 2775720
+      },
+      {
+        "_path": "lib/pkgconfig/libavcodec.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "39bcd889cc6fd8650ece9ffd9d287783f3e4bbcfb9d0974e2346b36a9fd06cee",
+        "size_in_bytes": 726
+      },
+      {
+        "_path": "lib/pkgconfig/libavdevice.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "f8da5b48c52058ba2e9b27681017e6f59776ef80125c72a52807201362671aa6",
+        "size_in_bytes": 525
+      },
+      {
+        "_path": "lib/pkgconfig/libavfilter.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "75ec8258bd91d641baf68d0d2f99dcfdc6840301e113b3e2295fe27dbce1fecd",
+        "size_in_bytes": 544
+      },
+      {
+        "_path": "lib/pkgconfig/libavformat.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "e2e110ffbe4f16801dc84051c22fe5daa5978d8cd79cdbd26d653e382a627401",
+        "size_in_bytes": 486
+      },
+      {
+        "_path": "lib/pkgconfig/libavutil.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "a1baaaf05da09c1fb91c99134ca450a8a0190d1321f1b55a6fb8fbc54a43a286",
+        "size_in_bytes": 356
       },
       {
         "_path": "lib/pkgconfig/libpostproc.pc",
@@ -8853,6 +10471,49 @@
     ],
     "paths_version": 1
   },
+  "nv-codec-headers-8.1.24.2-0.tar.bz2": {
+    "paths": [
+      {
+        "_path": "include/ffnvcodec/dynlink_cuda.h",
+        "path_type": "hardlink",
+        "sha256": "aca0cf840fdcb2e17babde0e4b1a143e424b6ef50e3a912556cfb05c3767213c",
+        "size_in_bytes": 5631
+      },
+      {
+        "_path": "include/ffnvcodec/dynlink_cuviddec.h",
+        "path_type": "hardlink",
+        "sha256": "17e60306006f23462f93e862f1fa4f5e3249353b01ef3b2b0a1f04addd491348",
+        "size_in_bytes": 45190
+      },
+      {
+        "_path": "include/ffnvcodec/dynlink_loader.h",
+        "path_type": "hardlink",
+        "sha256": "2edc7d0cdbbced1100d71dff82db24fdbd8ef2d8150d24138202f7b976187a58",
+        "size_in_bytes": 13524
+      },
+      {
+        "_path": "include/ffnvcodec/dynlink_nvcuvid.h",
+        "path_type": "hardlink",
+        "sha256": "e7700d09ae5b59f7653bd96e12ef9739514529c1bfe723ba0c9f46c645a15c6a",
+        "size_in_bytes": 21689
+      },
+      {
+        "_path": "include/ffnvcodec/nvEncodeAPI.h",
+        "path_type": "hardlink",
+        "sha256": "e6e90b3d1f4dc0fec6a29cca7a371b0c763394a7ea46217dde3112dd3a96cea8",
+        "size_in_bytes": 198550
+      },
+      {
+        "_path": "lib/pkgconfig/ffnvcodec.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "89ed0c739dff20512a5432979c28604fa5d8cc080a6122c4633e24038ad5af20",
+        "size_in_bytes": 184
+      }
+    ],
+    "paths_version": 1
+  },
   "pyinstrument-20180621-0.tar.bz2": {
     "paths": [
       {
@@ -8907,8 +10568,8 @@
       {
         "_path": "bin/x264",
         "path_type": "hardlink",
-        "sha256": "b902191b7eaaf4b5c91007246fc8ae02a5decb78bcabdfc154a0cb93261f73b3",
-        "size_in_bytes": 5208128
+        "sha256": "9db461febf7688b2a02cbfc2250b98bda79ceda696e9e54294a29b2321f0df2a",
+        "size_in_bytes": 5208088
       },
       {
         "_path": "include/x264.h",
@@ -8925,19 +10586,19 @@
       {
         "_path": "lib/libx264.a",
         "path_type": "hardlink",
-        "sha256": "c79860e90ffaa2dc4cc5e63cb2b26ac66f4de201112dc51dcbdb1384684cc41b",
-        "size_in_bytes": 8384608
+        "sha256": "7758e2edccc88a0b1624dff557f922451ae1924a1f47d7c5f3585d30d7ffaa10",
+        "size_in_bytes": 8384704
       },
       {
         "_path": "lib/libx264.so",
         "path_type": "softlink",
-        "sha256": "ac2b27f7a1e904898c95796cc228a8658418d3b9410a2708e6351c2e4fd9e73a",
+        "sha256": "22590a8f77b7b63366ae268783cde5fabefaba592189f1005e46aa501efffd34",
         "size_in_bytes": 4507536
       },
       {
         "_path": "lib/libx264.so.152",
         "path_type": "hardlink",
-        "sha256": "ac2b27f7a1e904898c95796cc228a8658418d3b9410a2708e6351c2e4fd9e73a",
+        "sha256": "22590a8f77b7b63366ae268783cde5fabefaba592189f1005e46aa501efffd34",
         "size_in_bytes": 4507536
       },
       {
@@ -8956,8 +10617,8 @@
       {
         "_path": "bin/x265",
         "path_type": "hardlink",
-        "sha256": "40c401fc6527487b599904710a5bd2e8e9834a7a9de6e687d57b93bbef9f99e1",
-        "size_in_bytes": 112568
+        "sha256": "68f8c4cd8f5c63d4965942b9b38c29ec4fbb8004757b6bd8c638a07fe9668124",
+        "size_in_bytes": 112520
       },
       {
         "_path": "include/x265.h",
@@ -8974,28 +10635,28 @@
       {
         "_path": "lib/libx265.a",
         "path_type": "hardlink",
-        "sha256": "e1a3343a210d2cfd4853f2e5ed7398900b21e57be8cd0381493082de8faf0b59",
-        "size_in_bytes": 6906110
+        "sha256": "3d264ea98acae1f300bea881a652bacac9d0ed5b2f2c3606d0ce381191daf351",
+        "size_in_bytes": 6904086
       },
       {
         "_path": "lib/libx265.so",
         "path_type": "softlink",
-        "sha256": "2e522aef3ec32de12e7d7e9726128a5f8667ec4001cc74085e228221ac43d315",
-        "size_in_bytes": 5815600
+        "sha256": "9ce29411557007a0e400502c9e0f7568f8f178c096c8716faa40ca7a9d168b8c",
+        "size_in_bytes": 5815024
       },
       {
         "_path": "lib/libx265.so.160",
         "path_type": "hardlink",
-        "sha256": "2e522aef3ec32de12e7d7e9726128a5f8667ec4001cc74085e228221ac43d315",
-        "size_in_bytes": 5815600
+        "sha256": "9ce29411557007a0e400502c9e0f7568f8f178c096c8716faa40ca7a9d168b8c",
+        "size_in_bytes": 5815024
       },
       {
         "_path": "lib/pkgconfig/x265.pc",
         "file_mode": "text",
         "path_type": "hardlink",
         "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
-        "sha256": "3c376b7e4d9ec17df779c310781af86267de77d314f2a5543be6097c40895db7",
-        "size_in_bytes": 301
+        "sha256": "e6cdfc9798a4e9f72419dfebe86bac99ecd7b35a6cd3cdbdf63ca7b1b34b21cf",
+        "size_in_bytes": 294
       }
     ],
     "paths_version": 1

@@ -1,0 +1,88 @@
+{% set name = "ffmpeg-cuda" %}
+{% set version = "4.0" %}
+{% set file_ext = "tar.gz" %}
+{% set hash_type = "sha256" %}
+{% set hash_value = "dc4b1c622baa34fc68d763cd2818e419d1af90271e0506604905f25a46ea8273" %}
+
+package:
+  name: '{{ name }}'
+  version: '{{ version }}'
+
+source:
+  fn: ffmpeg-{{ version }}.tar.gz
+  url: https://ffmpeg.org/releases/ffmpeg-{{ version }}.tar.gz
+  '{{ hash_type }}': '{{ hash_value }}'
+
+build:
+  number: 0
+  skip: true         # [win]
+
+requirements:
+  build:
+    - gcc
+    - pkg-config
+    - libtool
+    - nasm
+    - gnutls
+    - libtheora
+    - nv-codec-headers
+  host:
+    - bzip2
+    - freetype
+    - libiconv
+    - x264
+    - x265
+    - libvpx
+    - zlib
+    - gnutls
+    - libtheora
+    - nv-codec-headers
+  run:
+    - bzip2
+    - freetype
+    - libiconv
+    - x264
+    - x265
+    - libvpx
+    - zlib
+    - gnutls
+    - libtheora
+    - nv-codec-headers
+
+test:
+  commands:
+    - ffmpeg --help
+    - ffmpeg -codecs | grep "DEVI.S zlib"
+    - ffmpeg -codecs | grep "DEV.LS h264"
+    - ffmpeg -codecs | grep "DEV.L. hevc"
+    - ffmpeg -codecs | grep "DEV.L. vp8"
+    - ffmpeg -codecs | grep "DEV.L. vp9"
+    - ffmpeg -codecs | grep "DEV.L. theora"
+    - ffmpeg -protocols | grep "https"
+    - ffmpeg -protocols | grep "udp"
+    - ffmpeg -protocols | grep "rtp"
+    - ffmpeg -protocols | grep "srtp"
+    - ffmpeg -decoders | grep "_cuvid"
+    - ffmpeg -encoders | grep "_nvenc"
+    # Verify dynamic libraries on all systems
+    {% set ffmpeg_libs = [
+        "avcodec",
+        "avdevice",
+        "swresample",
+        "postproc",
+        "avfilter",
+        "swresample",
+        "avcodec",
+        "avformat",
+        "swscale",
+    ] %}
+    {% for each_ffmpeg_lib in ffmpeg_libs %}
+    - test -f $PREFIX/lib/lib{{ each_ffmpeg_lib }}.so
+    {% endfor %}
+    - conda inspect linkages -p $PREFIX $PKG_NAME
+
+about:
+  home: http://www.ffmpeg.org/
+  license: GPL 3
+  license_file: COPYING.GPLv3
+  summary: Cross-platform solution to record, convert and stream audio and video.

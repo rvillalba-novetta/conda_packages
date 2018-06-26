@@ -200,6 +200,83 @@
       ]
     }
   },
+  "av-cuda-0.4.0_1.0-py36_0.tar.bz2": {
+    "about": {
+      "description": "PyAV is a Pythonic binding for FFmpeg or Libav. We aim to provide all of\nthe power and control of the underlying library, but manage the gritty\ndetails as much as possible.\n",
+      "dev_url": "https://github.com/rvillalba-novetta/PyAV/releases",
+      "doc_url": "http://mikeboers.github.io/PyAV/",
+      "home": "https://github.com/mikeboers/PyAV/",
+      "license": "BSD 3-Clause",
+      "license_file": "LICENSE.txt",
+      "summary": "Pythonic bindings for FFmpeg."
+    },
+    "build": {
+      "number": "0",
+      "script": "python setup.py install --single-version-externally-managed --record record.txt",
+      "string": "py36_0"
+    },
+    "extra": {
+      "copy_test_source_files": true,
+      "final": true
+    },
+    "package": {
+      "name": "av-cuda",
+      "version": "0.4.0_1.0"
+    },
+    "requirements": {
+      "build": [
+        "bzip2 1.0.6 1",
+        "ca-certificates 2018.4.16 0",
+        "certifi 2018.4.16 py36_0",
+        "cython 0.28.3 py36hfc679d8_0",
+        "ffmpeg-cuda 4.0 0",
+        "freetype 2.8.1 0",
+        "gmp 6.1.2 hfc679d8_0",
+        "gnutls 3.5.17 0",
+        "libgcc-ng 7.2.0 hdf63c60_3",
+        "libiconv 1.15 h470a237_1",
+        "libidn11 1.33 0",
+        "libogg 1.3.2 0",
+        "libpng 1.6.34 0",
+        "libstdcxx-ng 7.2.0 hdf63c60_3",
+        "libtheora 1.1.1 h470a237_1",
+        "libvorbis 1.3.5 0",
+        "libvpx 1.7.0 h439df22_0",
+        "ncurses 5.9 10",
+        "nettle 3.3 0",
+        "nv-codec-headers 8.1.24.2 0",
+        "openssl 1.0.2o 0",
+        "pip 9.0.3 py36_0",
+        "pkg-config 0.29.2 1",
+        "python 3.6.5 1",
+        "readline 7.0 0",
+        "setuptools 39.2.0 py36_0",
+        "sqlite 3.20.1 2",
+        "tk 8.6.7 0",
+        "wheel 0.31.0 py36_0",
+        "x264 20180621 0",
+        "x265 2.8 0",
+        "xz 5.2.3 0",
+        "zlib 1.2.11 h470a237_3"
+      ],
+      "run": [
+        "ffmpeg-cuda",
+        "numpy",
+        "pillow",
+        "python >=3.6,<3.7.0a0"
+      ]
+    },
+    "source": {
+      "fn": "v0.4.0_1.0.tar.gz",
+      "sha256": "e762d2731a6e205ce2efc56d74acef867e188850fc09b06880951d23a8dfce02",
+      "url": "https://github.com/rvillalba-novetta/PyAV/archive/v0.4.0_1.0.tar.gz"
+    },
+    "test": {
+      "imports": [
+        "av"
+      ]
+    }
+  },
   "ffmpeg-4.0-0.tar.bz2": {
     "about": {
       "home": "http://www.ffmpeg.org/",
@@ -293,6 +370,117 @@
         "ffmpeg -protocols | grep \"udp\"",
         "ffmpeg -protocols | grep \"rtp\"",
         "ffmpeg -protocols | grep \"srtp\"",
+        "test -f $PREFIX/lib/libavcodec.so",
+        "test -f $PREFIX/lib/libavdevice.so",
+        "test -f $PREFIX/lib/libswresample.so",
+        "test -f $PREFIX/lib/libpostproc.so",
+        "test -f $PREFIX/lib/libavfilter.so",
+        "test -f $PREFIX/lib/libswresample.so",
+        "test -f $PREFIX/lib/libavcodec.so",
+        "test -f $PREFIX/lib/libavformat.so",
+        "test -f $PREFIX/lib/libswscale.so",
+        "conda inspect linkages -p $PREFIX $PKG_NAME"
+      ]
+    }
+  },
+  "ffmpeg-cuda-4.0-0.tar.bz2": {
+    "about": {
+      "home": "http://www.ffmpeg.org/",
+      "license": "GPL 3",
+      "license_file": "COPYING.GPLv3",
+      "summary": "Cross-platform solution to record, convert and stream audio and video."
+    },
+    "build": {
+      "number": "0",
+      "string": "0"
+    },
+    "extra": {
+      "copy_test_source_files": true,
+      "final": true
+    },
+    "package": {
+      "name": "ffmpeg-cuda",
+      "version": "4.0"
+    },
+    "requirements": {
+      "build": [
+        "cloog 0.18.0 0",
+        "gcc 4.8.5 7",
+        "gmp 6.1.2 hfc679d8_0",
+        "gnutls 3.5.17 0",
+        "isl 0.12.2 0",
+        "libgcc-ng 7.2.0 hdf63c60_3",
+        "libidn11 1.33 0",
+        "libogg 1.3.2 0",
+        "libpng 1.6.34 0",
+        "libstdcxx-ng 7.2.0 hdf63c60_3",
+        "libtheora 1.1.1 h470a237_1",
+        "libtool 2.4.6 0",
+        "libvorbis 1.3.5 0",
+        "mpc 1.1.0 4",
+        "mpfr 3.1.5 0",
+        "nasm 2.13.02 0",
+        "nettle 3.3 0",
+        "nv-codec-headers 8.1.24.2 0",
+        "pkg-config 0.29.2 1",
+        "zlib 1.2.11 h470a237_3"
+      ],
+      "host": [
+        "bzip2 1.0.6 1",
+        "freetype 2.8.1 0",
+        "gmp 6.1.2 hfc679d8_0",
+        "gnutls 3.5.17 0",
+        "libgcc-ng 7.2.0 hdf63c60_3",
+        "libiconv 1.15 h470a237_1",
+        "libidn11 1.33 0",
+        "libogg 1.3.2 0",
+        "libpng 1.6.34 0",
+        "libstdcxx-ng 7.2.0 hdf63c60_3",
+        "libtheora 1.1.1 h470a237_1",
+        "libvorbis 1.3.5 0",
+        "libvpx 1.7.0 h439df22_0",
+        "nettle 3.3 0",
+        "nv-codec-headers 8.1.24.2 0",
+        "x264 20180621 0",
+        "x265 2.8 0",
+        "zlib 1.2.11 h470a237_3"
+      ],
+      "run": [
+        "bzip2",
+        "freetype",
+        "gnutls",
+        "libiconv",
+        "libiconv >=1.15,<2.0a0",
+        "libtheora",
+        "libvpx",
+        "libvpx >=1.7.0,<1.8.0a0",
+        "nv-codec-headers",
+        "x264",
+        "x265",
+        "zlib",
+        "zlib >=1.2.11,<1.3.0a0"
+      ]
+    },
+    "source": {
+      "fn": "ffmpeg-4.0.tar.gz",
+      "sha256": "dc4b1c622baa34fc68d763cd2818e419d1af90271e0506604905f25a46ea8273",
+      "url": "https://ffmpeg.org/releases/ffmpeg-4.0.tar.gz"
+    },
+    "test": {
+      "commands": [
+        "ffmpeg --help",
+        "ffmpeg -codecs | grep \"DEVI.S zlib\"",
+        "ffmpeg -codecs | grep \"DEV.LS h264\"",
+        "ffmpeg -codecs | grep \"DEV.L. hevc\"",
+        "ffmpeg -codecs | grep \"DEV.L. vp8\"",
+        "ffmpeg -codecs | grep \"DEV.L. vp9\"",
+        "ffmpeg -codecs | grep \"DEV.L. theora\"",
+        "ffmpeg -protocols | grep \"https\"",
+        "ffmpeg -protocols | grep \"udp\"",
+        "ffmpeg -protocols | grep \"rtp\"",
+        "ffmpeg -protocols | grep \"srtp\"",
+        "ffmpeg -decoders | grep \"_cuvid\"",
+        "ffmpeg -encoders | grep \"_nvenc\"",
         "test -f $PREFIX/lib/libavcodec.so",
         "test -f $PREFIX/lib/libavdevice.so",
         "test -f $PREFIX/lib/libswresample.so",
@@ -414,6 +602,39 @@
       ]
     }
   },
+  "nv-codec-headers-8.1.24.2-0.tar.bz2": {
+    "about": {
+      "home": "https://github.com/FFmpeg/nv-codec-headers",
+      "summary": "FFmpeg version of headers required to interface with Nvidias codec APIs."
+    },
+    "build": {
+      "number": "0",
+      "string": "0"
+    },
+    "extra": {
+      "copy_test_source_files": true,
+      "final": true
+    },
+    "package": {
+      "name": "nv-codec-headers",
+      "version": "8.1.24.2"
+    },
+    "source": {
+      "fn": "n8.1.24.2.tar.gz",
+      "sha256": "2b339b2493f5b63b285dd660be05102af7d4ff2de9fcf3af94e48b5f91a3ca57",
+      "url": "https://github.com/FFmpeg/nv-codec-headers/archive/n8.1.24.2.tar.gz"
+    },
+    "test": {
+      "commands": [
+        "test -f ${PREFIX}/lib/pkgconfig/ffnvcodec.pc",
+        "test -f ${PREFIX}/include/ffnvcodec/dynlink_cuda.h",
+        "test -f ${PREFIX}/include/ffnvcodec/dynlink_cuviddec.h",
+        "test -f ${PREFIX}/include/ffnvcodec/dynlink_loader.h",
+        "test -f ${PREFIX}/include/ffnvcodec/dynlink_nvcuvid.h",
+        "test -f ${PREFIX}/include/ffnvcodec/nvEncodeAPI.h"
+      ]
+    }
+  },
   "pyinstrument-20180621-0.tar.bz2": {
     "about": {
       "home": "http://www.videolan.org/developers/x264.html",
@@ -474,6 +695,7 @@
     },
     "requirements": {
       "build": [
+        "nasm 2.13.02 0",
         "yasm 1.3.0 0"
       ]
     },
@@ -521,6 +743,7 @@
         "libgcc-ng 7.2.0 hdf63c60_3",
         "libssh2 1.8.0 h5b517e9_2",
         "libuv 1.20.3 0",
+        "nasm 2.13.02 0",
         "ncurses 5.9 10",
         "openssl 1.0.2o 0",
         "rhash 1.3.4 0",

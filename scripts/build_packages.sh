@@ -2,7 +2,7 @@
 
 set -e
 
-export ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.."; pwd)"
+ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.."; pwd)"
 
 echo 'Usage: pass in path to each package to build or no arguments to build all\n\n'
 

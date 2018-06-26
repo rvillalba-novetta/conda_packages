@@ -1,0 +1,33 @@
+{% set name = "nv-codec-headers" %}
+{% set version = "8.1.24.2" %}
+{% set file_ext = "tar.gz" %}
+{% set hash_type = "sha256" %}
+{% set hash_value = "2b339b2493f5b63b285dd660be05102af7d4ff2de9fcf3af94e48b5f91a3ca57" %}
+
+package:
+  name: '{{ name }}'
+  version: '{{ version }}'
+
+source:
+  fn: n{{ version }}.tar.gz
+  url: https://github.com/FFmpeg/{{ name }}/archive/n{{ version }}.tar.gz
+  '{{ hash_type }}': '{{ hash_value }}'
+
+build:
+  number: 0
+  skip: true         # [win]
+
+test:
+  commands:
+    - test -f ${PREFIX}/lib/pkgconfig/ffnvcodec.pc
+    - test -f ${PREFIX}/include/ffnvcodec/dynlink_cuda.h  
+    - test -f ${PREFIX}/include/ffnvcodec/dynlink_cuviddec.h  
+    - test -f ${PREFIX}/include/ffnvcodec/dynlink_loader.h  
+    - test -f ${PREFIX}/include/ffnvcodec/dynlink_nvcuvid.h
+    - test -f ${PREFIX}/include/ffnvcodec/nvEncodeAPI.h
+
+
+about:
+  home: https://github.com/FFmpeg/nv-codec-headers
+  summary: FFmpeg version of headers required to interface with Nvidias codec APIs.
+

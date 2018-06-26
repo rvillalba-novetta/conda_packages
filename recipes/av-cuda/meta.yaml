@@ -1,0 +1,47 @@
+{% set name = "av-cuda" %}
+{% set version = "0.4.0_1.0" %}
+{% set sha256 = "e762d2731a6e205ce2efc56d74acef867e188850fc09b06880951d23a8dfce02" %}
+
+package:
+  name: {{ name|lower }}
+  version: {{ version }}
+
+source:
+  fn: v{{ version }}.tar.gz
+  url: https://github.com/rvillalba-novetta/PyAV/archive/v{{ version }}.tar.gz
+  sha256: {{ sha256 }}
+
+build:
+  number: 0
+  script: python setup.py install --single-version-externally-managed --record record.txt
+
+requirements:
+  build:
+    - python
+    - setuptools
+    - cython
+    - pkg-config
+    - ffmpeg-cuda
+  run:
+    - python
+    - pillow
+    - numpy
+    - ffmpeg-cuda
+
+test:
+  imports:
+    - av
+
+about:
+  home: https://github.com/mikeboers/PyAV/
+  license: BSD 3-Clause
+  license_file: LICENSE.txt
+  summary: 'Pythonic bindings for FFmpeg.'
+
+  description: |
+    PyAV is a Pythonic binding for FFmpeg or Libav. We aim to provide all of
+    the power and control of the underlying library, but manage the gritty
+    details as much as possible.
+  doc_url: http://mikeboers.github.io/PyAV/
+  dev_url: https://github.com/mikeboers/PyAV/
+  dev_url: https://github.com/rvillalba-novetta/PyAV/releases
