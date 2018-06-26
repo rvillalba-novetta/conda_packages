@@ -5,8 +5,8 @@
 {% set hash_value = "6e59f9afc0c2b87a46f98e33b5159d56ffb3558a49d8e3d79cb7fdc6b7aaa863" %}
 
 package:
-  name: '{{ name  }}'
-  version: '{{ version  }}'
+  name: '{{ name }}'
+  version: '{{ version }}'
 
 source:
   fn: x265_{{ version }}.tar.gz
@@ -20,6 +20,7 @@ build:
 requirements:
   build:
     - yasm
+    - nasm
     - cmake
 
 test:
