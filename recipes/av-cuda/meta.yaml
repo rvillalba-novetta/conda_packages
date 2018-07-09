@@ -1,6 +1,6 @@
 {% set name = "av-cuda" %}
-{% set version = "0.4.0_1.0" %}
-{% set sha256 = "e762d2731a6e205ce2efc56d74acef867e188850fc09b06880951d23a8dfce02" %}
+{% set version = "0.4.0_1.1" %}
+{% set sha256 = "25de89c8110815667480247710b67320c373d0e6949bd535477a7db2d088dda8" %}
 
 package:
   name: {{ name|lower }}

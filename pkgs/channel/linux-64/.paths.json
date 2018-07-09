@@ -1575,6 +1575,515 @@
     ],
     "paths_version": 1
   },
+  "av-cuda-0.4.0_1.1-py36_0.tar.bz2": {
+    "paths": [
+      {
+        "_path": "bin/pyav",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "6d8de4b885266878311ed4f00d46c74c41532f2e858d5a2d36ec93a5559457c1",
+        "size_in_bytes": 403
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av-0.4.1.dev0-py3.6.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "c0cad33532925a9de1ec3037a70a405d14e35b3505752853d756d95b31df9cd0",
+        "size_in_bytes": 3089
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av-0.4.1.dev0-py3.6.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "5671660f28bbbabeb007107adc96dd0186fe139a612a5bf01ca06d750852ea08",
+        "size_in_bytes": 5335
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av-0.4.1.dev0-py3.6.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av-0.4.1.dev0-py3.6.egg-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "38c076459311f571f4a5aed400f2c03794cd6779fa60ab0903c1816847357cc2",
+        "size_in_bytes": 43
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av-0.4.1.dev0-py3.6.egg-info/not-zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av-0.4.1.dev0-py3.6.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "4ee405facb6f14737c8a57ebdfa72da9ceff311e483a152aad1d22ea2e60351f",
+        "size_in_bytes": 3
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "c98e4af1160c735e507c49ac56ec38c132e4ed65488eb8b8d0ef0f74a8914fc6",
+        "size_in_bytes": 1044
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "46ac3f8c45133b0fe187fed56c9b9a5fd871106502b8417f6a46b5a1695bee02",
+        "size_in_bytes": 1284
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "d85108c7df22cbe0e94e8d75e43b92efa04dd97df894b12b1e137749fd549fb5",
+        "size_in_bytes": 1012
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/__pycache__/__main__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "2b773e35a1639bdbae919b4488cfd3cc896835540f9826305a2570549957eb24",
+        "size_in_bytes": 1170
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/_core.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "dccbcd06097b5095d36a8de1823d21e675d4b045902c195a44c101709f6b3cc1",
+        "size_in_bytes": 106008
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "f01486db90c837b0b6fa460729a99cd665fa5955508961ed9ddb1b1a246c7ace",
+        "size_in_bytes": 30
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "dc3c180bb91f0f54275830d23e97c0946fa4c08679ba40ef17bd585d0c170ad5",
+        "size_in_bytes": 171
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/codeccontext.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "342f57d9ac002af422003a644a84fdbb999291bc84a18bfcc5ce9e479748d739",
+        "size_in_bytes": 240544
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/fifo.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "1bb5fc449c3f0663781026fbdaec9e60e7e56f506e519743969c5d1d0568ae72",
+        "size_in_bytes": 279544
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/format.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "ac2203a46600a688902ad459b4c79973f823bf50f23da9f57ed0c3b8cdd699e6",
+        "size_in_bytes": 155360
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/frame.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "0b24fa7bf3920978d6ca9c4108ea256c6656a70766e72dc35e180519360909c0",
+        "size_in_bytes": 361736
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/layout.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "b28fadd0e7bbb15b7519c4971865934c4e980b309645f973c00b402bd84a333a",
+        "size_in_bytes": 288120
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/plane.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "cad49f259c4da9c4e86ef797eba68a413539b3b62bb2abe727a258eb1f70b63a",
+        "size_in_bytes": 167472
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/resampler.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "6f45e886cfd8ba11713702ea07d50828996c03c2381ef66d9a079790c6a57c3d",
+        "size_in_bytes": 281016
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/audio/stream.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "57c584f62460c9cbdce201b118e27ba924833297e3e42fc28f528a1981b155c3",
+        "size_in_bytes": 173592
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/buffer.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "3be53c9dd13a977ddeef5617d8735e12c26f7bda01bc1d35226dea1dc27d9fbf",
+        "size_in_bytes": 295160
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/bytesource.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "c2410163488c198950b17a3528d0df9ca36a5bc0619031fb7112c23757b8714f",
+        "size_in_bytes": 125912
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/codec/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "33d18a310b16d07156eee45c8356adeb573bdca85185fb88047a95b9fde7ed3c",
+        "size_in_bytes": 95
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/codec/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "f5a36fffb675541e8a0836af799ccbeff324406fbe91176e53552e1008607f29",
+        "size_in_bytes": 264
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/codec/codec.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "04269e5eccf0b43ba134d37e609690280415724e091479b1b815395462bd0007",
+        "size_in_bytes": 373904
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/codec/context.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "97b9e6a7115d476d4898a111d8838e5b92ca9b64d371092ebe8fde042c00e05f",
+        "size_in_bytes": 575632
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/container/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "9efdb746d9dcfb2c746f008fc37016e0acaf2bdc13c847f048408a522c9ff761",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/container/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "856e6cfdcc7d573c2f3342259b16d2e0fa2c92be53dcf04f686789155eb879c9",
+        "size_in_bytes": 278
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/container/core.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "10cfde0abcc34c822d127aecfa65ebef9b2e970aa8daa8322b418ca0fd1c236f",
+        "size_in_bytes": 481472
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/container/input.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "bf8b13df4fcb6e0ddf19b35ac15104303d8a21ed348c31c161586aabed48a70a",
+        "size_in_bytes": 402368
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/container/output.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "e69ad9d5661eebba3b46c21992fac9892f4a62a0580e4cfce20ab179f94b5a11",
+        "size_in_bytes": 374040
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/container/pyio.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "4eddc65bcb2de1a999be49f5374911b39db38f127cbf60a37dccdc0d3b747e08",
+        "size_in_bytes": 225416
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/container/streams.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "74f1ab173510acb7e316055635b9f429a626d4cce912ace01fe93331896f48e7",
+        "size_in_bytes": 401704
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/data/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/data/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "67f5b48296383b1218f03e916457588a6f6cacea9594f60222922e0fcae5a96d",
+        "size_in_bytes": 130
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/data/stream.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "712c95f05a9f48f2e99b8c1911c9ca247d7d25278bd85732233249efa8e3b657",
+        "size_in_bytes": 192864
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/descriptor.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "c6f0dda9d3f7b1be4da43a62af5ea67ae9cdcfcaead2b5de0f533b39980879b8",
+        "size_in_bytes": 148264
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/dictionary.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "90de1dcc30e7d90ec7cf46f3cf5b37323d792ae76be9799bfb9b3198363d87ca",
+        "size_in_bytes": 287400
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/enums.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "b2f44947eb88aaae2e808d50611c14840b7569a31cf93fcec77931349b005e49",
+        "size_in_bytes": 647568
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/filter/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "697d987744935cc2ce83cc7d7086117aea343a1da1bd33b94321ba6b6cf4f8c1",
+        "size_in_bytes": 103
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/filter/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "a41839bd3c1cb69c6294cbb3973dd982dcdf0013c6ceb5623bb2c222d59433af",
+        "size_in_bytes": 282
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/filter/context.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "ae6f8b50daa71c8966b8f5e61f9662c3a6a3dfeb90e5fd82d72b1ca6dcca6f1a",
+        "size_in_bytes": 343960
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/filter/filter.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "dba21a61b70544edd87be143a4c8656cb9cd5ab070f08198cf242677142ee193",
+        "size_in_bytes": 422480
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/filter/graph.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "5b29fd279a0b8b642329d332c47f2bb9c43c9d6d5e3f94ee60b13c29feca114d",
+        "size_in_bytes": 326568
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/filter/link.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "ae819f2e76b040583881f189bdef265ec353a388d28c78601e7957a514fa3bda",
+        "size_in_bytes": 177856
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/filter/pad.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "eb732fba38e1850b8c1cadd0c71abb21e14f9b309ce8950dc90a2e4179d0f485",
+        "size_in_bytes": 196664
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/format.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "43989cf258b80ee794c7009d1a20144f6a68f228b9b421517739fe0b3a38eab8",
+        "size_in_bytes": 246200
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/frame.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "c23d12910f2a34fa71fac846aa874d44a3cf74cab2a072290161c5727a9375e9",
+        "size_in_bytes": 219232
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/logging.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "6c70eda468ea293184da5682ab3c2bff646852396e229cb2b47b43a625b194b8",
+        "size_in_bytes": 457240
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/option.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "77eaa6790dbaac887ac3e94dc7f4cf6bb9dcd4c3247280b3f0c90466f35cdf43",
+        "size_in_bytes": 275944
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/packet.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "73f1581001bc844b34a98cd6ca2ffd2d826e939e6fdf9b7c8aa8d36c5f0bc6dc",
+        "size_in_bytes": 275112
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/plane.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "e933617d0741f8f8c3605a2a2db9d2a1e741edf3694e9471809c327ab30e1631",
+        "size_in_bytes": 202920
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/stream.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "5a8395bed80ff56da680acc6457647d4ca0bbfb7da45ee8241a7d0b46f91115d",
+        "size_in_bytes": 354144
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/subtitles/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/subtitles/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "97280e8c5ba5063b93886c00da16c4dbcc917208587482ca13edb469a70a804c",
+        "size_in_bytes": 135
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/subtitles/codeccontext.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "0ff82c32d762c0a1356367eb1a52fd3f82e05d1e29eb29ce3300010cd4006676",
+        "size_in_bytes": 168344
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/subtitles/stream.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "9856fc4ea0bb141d1ecd56fbed693bd91c0a055709d391b32998127925c34f01",
+        "size_in_bytes": 146880
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/subtitles/subtitle.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "3c19be773b18fcd6f8dca6938f407e95f4ec5be35f463b2142302e9a14c7d9e2",
+        "size_in_bytes": 519040
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/utils.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "18baf3b433455b70e58040e3061f9a7a26c002aec65a1f270d6fbf96f5cb5770",
+        "size_in_bytes": 393800
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/video/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "0511ffaaee95acb2a71aad61a665e661054efe8fabdf67e7b11f95e8d99b2e2b",
+        "size_in_bytes": 62
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/video/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "hardlink",
+        "sha256": "ac25aa176d68edd0f1f6c0a89e67a02989a1eb760891668da9bc8b94d85b9fd2",
+        "size_in_bytes": 213
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/video/codeccontext.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "c4baa962cd7b3ca609841425ab6cee2ba8a8cdb62054bb3da28bdfa9b7c37769",
+        "size_in_bytes": 331992
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/video/format.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "e03410a7fc7cc2779dc857468625feacc0b4159f41e07e46598c7cbb57050959",
+        "size_in_bytes": 279408
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/video/frame.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "26d5c379efbf342e3f73883bb8d09ff3ac90e17e6cb61e1add22ddaf4f90512e",
+        "size_in_bytes": 591368
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/video/plane.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "8837624131466434ad2bce317ed5b09306b99eaa525de34ba434fd86b9921386",
+        "size_in_bytes": 199632
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/video/reformatter.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "6b4efbb08014a80f4a73d5db2ddf6fb1f5c4a7d0518fb5320ad5f68e1fa5bfb7",
+        "size_in_bytes": 81312
+      },
+      {
+        "_path": "lib/python3.6/site-packages/av/video/stream.cpython-36m-x86_64-linux-gnu.so",
+        "file_mode": "binary",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/home/rvillalba/anaconda3/conda-bld/av-cuda_1531142677450/_h_env_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_placehold_",
+        "sha256": "0bbbfac71f3b273676d5919433d57b289d44aaeee94f40e048222de7c5465289",
+        "size_in_bytes": 177880
+      }
+    ],
+    "paths_version": 1
+  },
   "ffmpeg-4.0-0.tar.bz2": {
     "paths": [
       {

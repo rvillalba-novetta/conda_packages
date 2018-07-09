@@ -4,7 +4,7 @@ set -e
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.."; pwd)"
 
-echo 'Usage: pass in path to each package to build or no arguments to build all\n\n'
+echo "Usage: pass in path to each package to build or no arguments to build all\n\n"
 
 # Get full list of paths to recipes based on user input
 if [[ "$1" ]] ; then

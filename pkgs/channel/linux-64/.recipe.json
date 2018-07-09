@@ -277,6 +277,83 @@
       ]
     }
   },
+  "av-cuda-0.4.0_1.1-py36_0.tar.bz2": {
+    "about": {
+      "description": "PyAV is a Pythonic binding for FFmpeg or Libav. We aim to provide all of\nthe power and control of the underlying library, but manage the gritty\ndetails as much as possible.\n",
+      "dev_url": "https://github.com/rvillalba-novetta/PyAV/releases",
+      "doc_url": "http://mikeboers.github.io/PyAV/",
+      "home": "https://github.com/mikeboers/PyAV/",
+      "license": "BSD 3-Clause",
+      "license_file": "LICENSE.txt",
+      "summary": "Pythonic bindings for FFmpeg."
+    },
+    "build": {
+      "number": "0",
+      "script": "python setup.py install --single-version-externally-managed --record record.txt",
+      "string": "py36_0"
+    },
+    "extra": {
+      "copy_test_source_files": true,
+      "final": true
+    },
+    "package": {
+      "name": "av-cuda",
+      "version": "0.4.0_1.1"
+    },
+    "requirements": {
+      "build": [
+        "bzip2 1.0.6 1",
+        "ca-certificates 2018.4.16 0",
+        "certifi 2018.4.16 py36_0",
+        "cython 0.28.4 py36hfc679d8_0",
+        "ffmpeg-cuda 4.0 0",
+        "freetype 2.8.1 0",
+        "gmp 6.1.2 hfc679d8_0",
+        "gnutls 3.5.17 0",
+        "libgcc-ng 7.2.0 hdf63c60_3",
+        "libiconv 1.15 h470a237_1",
+        "libidn11 1.33 0",
+        "libogg 1.3.2 0",
+        "libpng 1.6.34 ha92aebf_1",
+        "libstdcxx-ng 7.2.0 hdf63c60_3",
+        "libtheora 1.1.1 h470a237_1",
+        "libvorbis 1.3.5 0",
+        "libvpx 1.7.0 h439df22_0",
+        "ncurses 5.9 10",
+        "nettle 3.3 0",
+        "nv-codec-headers 8.1.24.2 0",
+        "openssl 1.0.2o 0",
+        "pip 9.0.3 py36_0",
+        "pkg-config 0.29.2 1",
+        "python 3.6.5 1",
+        "readline 7.0 0",
+        "setuptools 39.2.0 py36_0",
+        "sqlite 3.20.1 2",
+        "tk 8.6.7 0",
+        "wheel 0.31.1 py36_0",
+        "x264 20180621 0",
+        "x265 2.8 0",
+        "xz 5.2.3 0",
+        "zlib 1.2.11 h470a237_3"
+      ],
+      "run": [
+        "ffmpeg-cuda",
+        "numpy",
+        "pillow",
+        "python >=3.6,<3.7.0a0"
+      ]
+    },
+    "source": {
+      "fn": "v0.4.0_1.1.tar.gz",
+      "sha256": "25de89c8110815667480247710b67320c373d0e6949bd535477a7db2d088dda8",
+      "url": "https://github.com/rvillalba-novetta/PyAV/archive/v0.4.0_1.1.tar.gz"
+    },
+    "test": {
+      "imports": [
+        "av"
+      ]
+    }
+  },
   "ffmpeg-4.0-0.tar.bz2": {
     "about": {
       "home": "http://www.ffmpeg.org/",
